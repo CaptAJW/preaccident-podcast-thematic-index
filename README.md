@@ -1,6 +1,6 @@
-# PreAccident Podcast Thematic Index
+# Pre-Accident Podcast Thematic Index
 
-The PreAccident Podcast contains a large body of practical safety knowledge developed across hundreds of episodes. That depth is valuable, but it also makes the archive difficult to navigate when a listener is looking for material on a specific subject.
+The Pre-Accident Podcast contains a large body of practical safety knowledge developed across hundreds of episodes. That depth is valuable, but it also makes the archive difficult to navigate when a listener is looking for material on a specific subject.
 
 This repository provides a structured thematic index of the podcast archive. It organizes the strongest and most relevant episodes into seven safety themes and publishes ranked Top 10, Top 25, and Top 50 lists for each theme.
 
@@ -59,7 +59,7 @@ Because an episode may substantively fit more than one theme, the file contains 
 
 ## How the Source Data Was Collected
 
-The project began by collecting publicly accessible metadata from the PreAccident Podcast archive hosted on Podbean.
+The project began by collecting publicly accessible metadata from the Pre-Accident Podcast archive hosted on Podbean.
 
 A Python-based scraping and data-collection process was used to retrieve and preserve the available structured information in JSON format. The collected information included, where available:
 
