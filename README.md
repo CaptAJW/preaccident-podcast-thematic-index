@@ -195,7 +195,6 @@ Only the first 50 records are published in each Top 50 report. Records ranked ab
 
 ```text
 README.md
-LICENSE
 preaccident_podcast_thematic_index.json
 
 01_human_performance_accountability/
