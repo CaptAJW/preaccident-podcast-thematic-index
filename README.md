@@ -24,6 +24,27 @@ Rankings represent **strength of thematic fit**. They do not represent overall e
 
 An episode may appear in more than one theme when the available metadata supports a substantive connection to multiple subjects.
 
+## Machine-Readable JSON
+
+The repository also includes a complete public machine-readable version of the thematic index:
+
+[preaccident_podcast_thematic_index.json](./preaccident_podcast_thematic_index.json)
+
+The JSON file contains:
+
+- All seven themes
+- The published Top 50 records for each theme
+- 350 total theme assignments
+- 279 distinct podcast records and media URLs
+- Rank, title, episode number, publication date, permalink, and media URL
+- Relevance score and confidence
+- Subordinate thematic concepts
+- Qualification and documented exception fields
+- Theme-level metadata and aggregate statistics
+
+The JSON is intended for software development, research, filtering, visualization, data analysis, and conversion into other formats such as CSV or spreadsheets.
+
+Because an episode may substantively fit more than one theme, the file contains 350 theme assignments representing 279 distinct podcast records.
 ## Themes
 
 | Theme | Focus |
@@ -175,6 +196,7 @@ Only the first 50 records are published in each Top 50 report. Records ranked ab
 ```text
 README.md
 LICENSE
+preaccident_podcast_thematic_index.json
 
 01_human_performance_accountability/
   human_performance_accountability_top_10.md
