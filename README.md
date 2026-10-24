@@ -6,6 +6,8 @@ This repository provides a structured thematic index of the podcast archive. It 
 
 The index is intended for safety professionals, operational leaders, investigators, educators, researchers, students, and practitioners who want to use the podcast as a targeted learning resource rather than browse the archive only in chronological order.
 
+**Current through PAPod 620** (collection of October 24, 2026). See [Updates](#updates) for how new episodes are added.
+
 ## What This Repository Contains
 
 The repository contains 21 published Markdown reports:
@@ -35,7 +37,7 @@ The JSON file contains:
 - All seven themes
 - The published Top 50 records for each theme
 - 350 total theme assignments
-- 279 distinct podcast records and media URLs
+- 278 distinct podcast records and media URLs
 - Rank, title, episode number, publication date, permalink, and media URL
 - Relevance score and confidence
 - Subordinate thematic concepts
@@ -44,7 +46,7 @@ The JSON file contains:
 
 The JSON is intended for software development, research, filtering, visualization, data analysis, and conversion into other formats such as CSV or spreadsheets.
 
-Because an episode may substantively fit more than one theme, the file contains 350 theme assignments representing 279 distinct podcast records.
+Because an episode may substantively fit more than one theme, the file contains 350 theme assignments representing 278 distinct podcast records.
 ## Themes
 
 | Theme | Focus |
@@ -75,7 +77,7 @@ A Python-based scraping and data-collection process was used to retrieve and pre
 
 The process did not download or redistribute the podcast audio. It did not rely on private, authenticated, or restricted data.
 
-The resulting working corpus contained **1,162 metadata records**, of which **1,157 were ranking-eligible**. Those figures are record counts, not unique episode counts. The public archive contains approximately 608 episodes, along with related posts, republications, repeated media references, and other records that can create more than one metadata entry for the same underlying audio.
+The initial working corpus (collected July 30, 2026) contained **1,162 metadata records**, of which **1,157 were ranking-eligible**. Those figures are record counts, not unique episode counts. The public archive then contained approximately 608 numbered episodes, along with Safety Moments, related posts, republications, repeated media references, and other records that can create more than one metadata entry for the same underlying audio. As of the October 2026 update the corpus holds **1,174 records (1,169 ranking-eligible)**, through PAPod 620.
 
 This distinction matters. A raw metadata record is not automatically a unique podcast episode.
 
@@ -173,7 +175,7 @@ The project also applied the following controls:
 - Records outside an authorized review range remained frozen.
 - Final Top 10, Top 25, and Top 50 outputs had to exactly match the corresponding portions of the full ranking.
 
-Two depth-sensitive themes required expressly documented below-threshold exception handling to complete a Top 50. Those records were preserved with their original scores and were not represented as having met the general score-7 qualification threshold.
+Two depth-sensitive themes required expressly documented below-threshold exception handling to complete a Top 50. Those records were preserved with their original scores and were not represented as having met the general score-7 qualification threshold. As newer qualifying episodes are added, they displace these exception records first: the published lists held 26 exception assignments at the initial build and hold 22 after the October 2026 update (15 in Culture, Trust, and Psychological Safety; 7 in Systems Complexity, Resilience, and Crisis Adaptation).
 
 ## Final Ranked-Pool Sizes
 
@@ -181,15 +183,33 @@ The complete final ranked pools were:
 
 | Theme ID | Final ranked pool |
 | --- | ---: |
-| `human_performance_accountability` | 60 |
-| `event_learning_investigation` | 51 |
-| `operational_learning_work_as_done` | 60 |
-| `leadership_change` | 59 |
-| `culture_trust_psychological_safety` | 50 |
-| `systems_resilience_crisis` | 50 |
-| `risk_controls_operational_assurance` | 54 |
+| `human_performance_accountability` | 63 |
+| `event_learning_investigation` | 52 |
+| `operational_learning_work_as_done` | 61 |
+| `leadership_change` | 62 |
+| `culture_trust_psychological_safety` | 52 |
+| `systems_resilience_crisis` | 52 |
+| `risk_controls_operational_assurance` | 55 |
 
-Only the first 50 records are published in each Top 50 report. Records ranked above 50 were retained as reserves in the underlying final data.
+Pool sizes are as of the October 2026 update. Only the first 50 records are published in each Top 50 report. Records ranked below 50 are retained as reserves in the underlying final data.
+
+## Updates
+
+New episodes are added incrementally rather than by re-running the full ranking.
+
+1. The Podbean archive metadata is re-collected and the working corpus rebuilt with the same Python processing used for the initial build.
+2. Records not seen in any earlier collection are identified by record ID.
+3. Each new record receives a thematic relevance assessment against **all seven** themes, using only its title and description, on the same 0 to 10 scale and score-7 threshold. The assessment is checked by script for completeness, valid scores, valid subordinate concepts, and consistency between score and qualification.
+4. For each theme in which a new record qualifies, a placement within the existing ranked pool is proposed. Existing records are not re-scored or re-ordered; they shift down by one position below each insertion.
+5. Placements are applied only after human review and approval. The Top 10, Top 25, and Top 50 reports and the JSON are then regenerated from the updated pools.
+
+Each inserted record carries the update run and approval in the underlying final data.
+
+| Update | Collection | New records reviewed | Placements | Entered the published lists | Moved to reserve |
+| --- | --- | ---: | ---: | --- | --- |
+| October 2026 | 2026-10-24 | 12 (PAPod 609–620) | 13 | PAPod 610, 611, 612, 614, 615, 616, 617, 620 | 11 theme positions; 9 earlier episodes no longer appear in any published list. None removed from the underlying data |
+
+PAPod 619 and 613 qualified in Human Performance, Error, and Accountability but placed in reserve (ranks 59 and 61). PAPod 609 and 618 did not qualify for any theme from their published metadata.
 
 ## Repository Structure
 

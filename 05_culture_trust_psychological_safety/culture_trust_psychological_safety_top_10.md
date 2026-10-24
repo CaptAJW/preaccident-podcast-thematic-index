@@ -42,7 +42,17 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-5xx-edgar-schein-part-two/
    - Media URL: https://mcdn.podbean.com/mf/web/jabgjgwp5veg224e/PAPod_239_-_Schein_Part_Two9ci78.mp3
 
-5. **PAPod 539 - From the Archives:  Unlocking Cultural Sustainability with Edgar Schein**
+5. **PAPod 612 - Speak Up or Stay Silent: Amy Edmondson on Psychological Safety**
+   - Episode 612
+   - Record ID: `pb28469881`
+   - Relevance: 9/10
+   - Confidence: high
+   - Subordinate concepts: psychological_safety
+   - Evidence: Psychological safety is the title subject and the description centers 'workplaces where people speak up and learn', 'candid dialogue', and 'collective learning'. The conversation is described as wide-ranging and also covers learning from failure, just culture, and systems thinking, so it is a 9 rather than a 10.
+   - Permalink: https://preaccidentpodcast.podbean.com/e/speak-up-or-stay-silent-amy-edmondson-on-psychological-safety/
+   - Media URL: https://mcdn.podbean.com/mf/web/f29b8xjsgrp93hbn/PAPod_612_-_Amy_Edmondsonanzxn-pe99js-Optimized.mp3
+
+6. **PAPod 539 - From the Archives:  Unlocking Cultural Sustainability with Edgar Schein**
    - Episode 539
    - Record ID: `pb25533992`
    - Relevance: 9/10
@@ -52,7 +62,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/unlocking-cultural-sustainability-with-edgar-schein/
    - Media URL: https://mcdn.podbean.com/mf/web/qjwgrfakfq86em4w/PAPod_239_-_Schein_Part_Two9wnps-bv4vya-Optimized.mp3
 
-6. **Safety Moment - Zero is the outcome - NOT THE PROCESS**
+7. **Safety Moment - Zero is the outcome - NOT THE PROCESS**
    - safety_moment
    - Record ID: `pb5845142`
    - Relevance: 8/10
@@ -62,7 +72,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-zero-is-the-outcome-not-the-process/
    - Media URL: https://mcdn.podbean.com/mf/web/w3zr75/SafetyMoment-ZeroisOnlyanOutcome.mp3
 
-7. **PAPod 566 - Blame Stops Improvement: How Blame Silences Learning**
+8. **PAPod 566 - Blame Stops Improvement: How Blame Silences Learning**
    - Episode 566
    - Record ID: `pb26676649`
    - Relevance: 8/10
@@ -72,7 +82,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/blame-stops-improvement-how-blame-silences-learning/
    - Media URL: https://mcdn.podbean.com/mf/web/cynb49fgn8p39hca/PAPod_566_-_1000_Reports_You_Didn_t_Getawdjt-9h4r36-Optimized.mp3
 
-8. **PAPod 56 - Diabolical Change - Nicole Barrett**
+9. **PAPod 56 - Diabolical Change - Nicole Barrett**
    - Episode 56
    - Record ID: `pb6031565`
    - Relevance: 9/10
@@ -82,7 +92,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-56-diabolical-change-nicole-barrett/
    - Media URL: https://mcdn.podbean.com/mf/web/ivqxdf/PAPod56-NicoleBarrett-DIabolicalChange-ULWHSSponsor.mp3
 
-9. **PAPod 534 - Embracing Māori Culture in Modern Safety Practices - Meet Vance Walker**
+10. **PAPod 534 - Embracing Māori Culture in Modern Safety Practices - Meet Vance Walker**
    - Episode 534
    - Record ID: `pb25067322`
    - Relevance: 9/10
@@ -91,13 +101,3 @@
    - Evidence: Māori values, cultural awareness, culturally resonant communication, indigenous perspectives, and inclusion are central to the episode's treatment of workplace safety.
    - Permalink: https://preaccidentpodcast.podbean.com/e/embracing-maori-culture-in-modern-safety-practices/
    - Media URL: https://mcdn.podbean.com/mf/web/6dv785k5nakw2ezh/PAPod_XXX_-_Vance_Walker_and_Ma_ori_Culture_of_Cautionbmc7m-d7f68h-Optimized.mp3
-
-10. **PAPod 594 - Bridging Cultures: Safety, Migrant Workers, and the Heart of Agribusiness**
-   - Episode 594
-   - Record ID: `pb27880449`
-   - Relevance: 9/10
-   - Confidence: high
-   - Subordinate concepts: cultural_diversity
-   - Evidence: The episode centers on cultural understanding, pastoral care, vulnerability, and culturally responsive support for migrant Pacific workers in a diverse workforce.
-   - Permalink: https://preaccidentpodcast.podbean.com/e/bridging-cultures-safety-migrant-workers-and-the-heart-of-agribusiness/
-   - Media URL: https://mcdn.podbean.com/mf/web/x6s66wcgshdqc56g/PAPod_XXX_-_Al_Thomson8jl51-wp6bpz-Optimized.mp3

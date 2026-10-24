@@ -392,7 +392,17 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/redefining-the-paradigm-of-accident-prevention/
    - Media URL: https://mcdn.podbean.com/mf/web/jd6ejygfd67wm6cu/PAPod_497_-_Diffusion_of_Safety_Differently8xeo5-AI-Generated.mp3
 
-40. **Safety Moment - Hazards are Fluid - Those Babies Move!**
+40. **PAPod 620 - From Risk to Mission: Rethinking Safety at Golden Gate**
+   - Episode 620
+   - Record ID: `pb28867571`
+   - Relevance: 8/10
+   - Confidence: high
+   - Subordinate concepts: listening
+   - Evidence: The description makes 'listening to frontline workers' the source of 'practical, predictive knowledge', treats 'expertise' as a core part of the safety program, and closes with 'real-world stories from lifeguards and park teams' showing how 'workforce engagement' improves reliability. Worker knowledge is the episode's organizing idea alongside the shift from risk to mission.
+   - Permalink: https://preaccidentpodcast.podbean.com/e/from-risk-to-mission-rethinking-safety-at-golden-gate/
+   - Media URL: https://mcdn.podbean.com/mf/web/mkvmr732ry3qigk5/PAPod_XXX-_Alcatrazasnlo-tafvt9-Optimized.mp3
+
+41. **Safety Moment - Hazards are Fluid - Those Babies Move!**
    - safety_moment
    - Record ID: `pb6464256`
    - Relevance: 7/10
@@ -402,7 +412,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-hazards-are-fluid-those-babies-move/
    - Media URL: https://mcdn.podbean.com/mf/web/uf7df5/Safety_Moment_-_Hazards_are_Fluid_and_Mysterious_.mp3
 
-41. **Safety Moment - Why Workers Don't Fix Problems**
+42. **Safety Moment - Why Workers Don't Fix Problems**
    - safety_moment
    - Record ID: `pb5891231`
    - Relevance: 7/10
@@ -412,7 +422,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-why-workers-dont-fix-problems/
    - Media URL: https://mcdn.podbean.com/mf/web/is8m5q/SafetyMoment-WhyWorkersDontFixProblems.mp3
 
-42. **Safety Moment - Fix The Worker!**
+43. **Safety Moment - Fix The Worker!**
    - safety_moment
    - Record ID: `pb7179263`
    - Relevance: 7/10
@@ -422,7 +432,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-fix-the-worker/
    - Media URL: https://mcdn.podbean.com/mf/web/g72jts/Safety_Moment_-_Fix_the_Worker_.mp3
 
-43. **Safety Moment - The Power of Micro Learning**
+44. **Safety Moment - The Power of Micro Learning**
    - safety_moment
    - Record ID: `pb7309752`
    - Relevance: 7/10
@@ -432,7 +442,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-the-power-of-micro-learning/
    - Media URL: https://mcdn.podbean.com/mf/web/r3jpjy/Safety_Moment_-_Micro_Learning.mp3
 
-44. **PAPod 570 - Safety Differently Down Under: Todd Conklin in Auckland**
+45. **PAPod 570 - Safety Differently Down Under: Todd Conklin in Auckland**
    - Episode 570
    - Record ID: `pb26857534`
    - Relevance: 7/10
@@ -442,7 +452,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-differently-down-under-todd-conklin-in-auckland/
    - Media URL: https://mcdn.podbean.com/mf/web/7h8657g7znik2qyg/PAPod_570_-_BSDBCazf2d-4xtu34-Optimized.mp3
 
-45. **PAPod 41 - Comedian Kent Whipple and the power of the story**
+46. **PAPod 41 - Comedian Kent Whipple and the power of the story**
    - Episode 41
    - Record ID: `pb5845164`
    - Relevance: 7/10
@@ -452,7 +462,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-41-comedian-kent-whipple-and-the-power-of-the-story/
    - Media URL: https://mcdn.podbean.com/mf/web/4sqm87/PAPod41-KentWhipple.mp3
 
-46. **PAPod 9 - Let's talk about COMPLEXITY and organizations with Jim Barker**
+47. **PAPod 9 - Let's talk about COMPLEXITY and organizations with Jim Barker**
    - Episode 9
    - Record ID: `pb5523770`
    - Relevance: 7/10
@@ -462,7 +472,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-9-lets-talk-about-complexity-and-organizations-with-jim-barker/
    - Media URL: https://mcdn.podbean.com/mf/web/dkfg56/PAPod9-JimBarker.mp3
 
-47. **PAPod 124- Tare-Away Gloves and New Thinking**
+48. **PAPod 124- Tare-Away Gloves and New Thinking**
    - Episode 124
    - Record ID: `pb6965870`
    - Relevance: 7/10
@@ -472,7 +482,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-124-tare-away-gloves-and-new-thinking/
    - Media URL: https://mcdn.podbean.com/mf/web/q37u3s/PAPod_12X_-_Tare-Away_Gloves_and_New_Thinking.mp3
 
-48. **Safety Moment - Experts, Safety, and Margins**
+49. **Safety Moment - Experts, Safety, and Margins**
    - safety_moment
    - Record ID: `pb5780441`
    - Relevance: 7/10
@@ -482,7 +492,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-experts-safety-and-margins/
    - Media URL: https://mcdn.podbean.com/mf/web/da74s6/SafetyMoment-ExpertsSafetyandMargins.mp3
 
-49. **PAPod 19 - Marc Yeston on Leading High Reliability**
+50. **PAPod 19 - Marc Yeston on Leading High Reliability**
    - Episode 19
    - Record ID: `pb5629497`
    - Relevance: 7/10
@@ -491,13 +501,3 @@
    - Evidence: The record draws lessons from leading high-risk field teams and identifies operational experience as an important source of learning.
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-19-marc-yeston-on-leading-high-reliability/
    - Media URL: https://mcdn.podbean.com/mf/web/psvxeb/PAPod19-MarcYeston.mp3
-
-50. **PAPod 96 - Safety Storytelling - Disastercast**
-   - Episode 96
-   - Record ID: `pb6569084`
-   - Relevance: 7/10
-   - Confidence: medium
-   - Subordinate concepts: storytelling
-   - Evidence: Storytelling is expressly connected to safety and operational learning, but the metadata provides limited detail about the operational knowledge conveyed.
-   - Permalink: https://preaccidentpodcast.podbean.com/e/papod-96-safety-storytelling-disastercast/
-   - Media URL: https://mcdn.podbean.com/mf/web/seh947/PAPod_96_-_Drew_Rae_.mp3

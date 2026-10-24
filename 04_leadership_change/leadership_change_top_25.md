@@ -172,7 +172,17 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/breaking-paradigms-why-workers-are-your-greatest-asset/
    - Media URL: https://mcdn.podbean.com/mf/web/xqkpbpv3inf3v4a7/PAPod_557-_Jenny_and_the_new_book9lzzm-d8wdie-Optimized.mp3
 
-18. **PAPod 552 - Uncovering the Power of Skepticism in Safety Leadership**
+18. **PAPod 617 - Rome Wasn't Built at 8 a.m.: The Case Against Immediate Improvement**
+   - Episode 617
+   - Record ID: `pb28756162`
+   - Relevance: 8/10
+   - Confidence: high
+   - Subordinate concepts: implementation
+   - Evidence: The whole description is an argument about how improvement is implemented: 'big-bang rollouts and sudden change cause chaos', while 'slow, incremental implementations let organizations prototype, find hidden flaws, build buy-in, and protect core operations'. Implementation pace and buy-in are the subject, stated plainly in the title.
+   - Permalink: https://preaccidentpodcast.podbean.com/e/rome-wasnt-built-at-8-am-the-case-against-big%e2%80%91bang-rollouts/
+   - Media URL: https://mcdn.podbean.com/mf/web/2pj2ragnxcn8v3fp/PAPod_XXX_-_After_Dad-comments_on_progress8kh6v-yzaddk-Optimized.mp3
+
+19. **PAPod 552 - Uncovering the Power of Skepticism in Safety Leadership**
    - Episode 552
    - Record ID: `pb26092276`
    - Relevance: 8/10
@@ -182,7 +192,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/uncovering-the-power-of-skepticism-in-safety-leadership/
    - Media URL: https://mcdn.podbean.com/mf/web/i9db5impsngcdcj6/PAAPod_5XX_-_Conklin_Conference_Open_Q_A6em70-9yrvjv-Optimized.mp3
 
-19. **Safety Moment - Integration and Competency in Safety Practices**
+20. **Safety Moment - Integration and Competency in Safety Practices**
    - safety_moment
    - Record ID: `pb22738364`
    - Relevance: 8/10
@@ -192,7 +202,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/integration-and-competency-in-safety-practices/
    - Media URL: https://mcdn.podbean.com/mf/web/8ah393/Safdty_Moment_-_Integration_without_ability_will_fail8c6ga-AI-Generated.mp3
 
-20. **PAPod 60 - Safety Professionals and The Shift to the New View**
+21. **PAPod 60 - Safety Professionals and The Shift to the New View**
    - Episode 60
    - Record ID: `pb6097679`
    - Relevance: 8/10
@@ -202,7 +212,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-60-safety-professionals-and-the-shift-to-the-new-view/
    - Media URL: https://mcdn.podbean.com/mf/web/8a8xpp/PAPod60-MarcieFrazier-UAWHS.mp3
 
-21. **PAPod 74 - New View Safety - Senior Leaders Saga - Superior Industries**
+22. **PAPod 74 - New View Safety - Senior Leaders Saga - Superior Industries**
    - Episode 74
    - Record ID: `pb6244791`
    - Relevance: 8/10
@@ -212,7 +222,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-74-new-view-safety-senior-leaders-saga-superior-industries/
    - Media URL: https://mcdn.podbean.com/mf/web/mpnv6j/PAPod_74_-_Paul_and_Dave_Schmidgall_-Superior_Industries_-_SafeMap_SOTE.mp3
 
-22. **PAPod 533 - Exploring the Future with Doug Parker and Jim Frederick**
+23. **PAPod 533 - Exploring the Future with Doug Parker and Jim Frederick**
    - Episode 533
    - Record ID: `pb25013864`
    - Relevance: 8/10
@@ -222,7 +232,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/exploring-the-future-of-osha-with-doug-parker-and-jim-frederick/
    - Media URL: https://mcdn.podbean.com/mf/web/xc448kwp2z5mic3a/PAPod_XXX_-_Part_Two_Osha_Guys721hp-88bvx7-Optimized.mp3
 
-23. **PAPod 532 - Lessons from Leadership with Doug Parker and Jim Frederick**
+24. **PAPod 532 - Lessons from Leadership with Doug Parker and Jim Frederick**
    - Episode 532
    - Record ID: `pb25013847`
    - Relevance: 8/10
@@ -232,7 +242,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/inside-osha-lessons-from-leadership-with-doug-parker-and-jim-frederick/
    - Media URL: https://mcdn.podbean.com/mf/web/3c8n6p7uuxqiuf66/PAPod_XXX_-_Final_Osha_Guys_Interview_Part_One655q7-hxxkkr-Optimized.mp3
 
-24. **PAPod 520 - Navigating Leadership: From Accountability to Responsibility**
+25. **PAPod 520 - Navigating Leadership: From Accountability to Responsibility**
    - Episode 520
    - Record ID: `pb24231276`
    - Relevance: 8/10
@@ -241,13 +251,3 @@
    - Evidence: Clear expectations, field engagement, responsibility, worker-as-solution framing, and organizational strategy make leadership practice central.
    - Permalink: https://preaccidentpodcast.podbean.com/e/navigating-leadership-from-accountability-to-responsibility/
    - Media URL: https://mcdn.podbean.com/mf/web/bykhe4shnzqczwgf/PAPod_520_-_Mark_Homeyer_on_the_relationship_between_accountability_and_expectation78hki-ywa8mx-Optimized.mp3
-
-25. **PAPod 555 - CHOL Live - "Unveiling Future Predictions: Podcast Reflections"**
-   - Episode 555
-   - Record ID: `pb26092340`
-   - Relevance: 8/10
-   - Confidence: high
-   - Subordinate concepts: leadership_management
-   - Evidence: The episode covers leadership transition, communication with senior leaders, organizational listening, adaptation, future strategy, and succession.
-   - Permalink: https://preaccidentpodcast.podbean.com/e/unveiling-future-predictions-podcast-reflections/
-   - Media URL: https://mcdn.podbean.com/mf/web/6xdw3p7st89vqvd2/PAPod555_-_CHOL_Live_Rob_Fisher9jjnc-d8qjew-Optimized.mp3

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "title": "PreAccident Podcast Thematic Index",
   "description": "A public machine-readable index of ranked PreAccident Podcast episodes across seven safety themes.",
-  "generated_at_utc": "2026-08-02T10:56:32.951524Z",
+  "generated_at_utc": "2026-10-24T13:09:44.955073Z",
   "source": {
     "podcast": "PreAccident Podcast",
     "host": "Todd Conklin",
@@ -20,9 +20,9 @@
   "statistics": {
     "theme_count": 7,
     "published_theme_assignments": 350,
-    "unique_record_ids": 279,
-    "unique_media_urls": 279,
-    "exception_inclusion_assignments": 26
+    "unique_record_ids": 278,
+    "unique_media_urls": 278,
+    "exception_inclusion_assignments": 22
   },
   "themes": [
     {
@@ -32,11 +32,11 @@
       "folder": "01_human_performance_accountability",
       "taxonomy_version": "1.0",
       "ranking_status": "final",
-      "finalized_at_utc": "2026-07-30T10:15:34.183184+00:00",
-      "candidate_count": 60,
+      "finalized_at_utc": "2026-10-24T13:09:44.829429+00:00",
+      "candidate_count": 63,
       "published_rank_count": 50,
-      "full_ranked_pool_count": 60,
-      "reserve_count": 10,
+      "full_ranked_pool_count": 63,
+      "reserve_count": 13,
       "ranking_method": "thematic relevance",
       "episodes": [
         {
@@ -638,6 +638,26 @@
         },
         {
           "rank": 28,
+          "record_id": "pb28617477",
+          "episode_number": 614,
+          "title": "PAPod 614 - Accountability Labs: Learning to Have Each Other’s Back",
+          "published_utc": "2026-09-05T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/accountability-labs-learning-to-have-each-other-s-back/",
+          "media_url": "https://mcdn.podbean.com/mf/web/98g3c8qim8eh5enj/PAPod_XXX_-_Jen_Long_Accountability_Labs90syn-4mgz9h-Optimized.mp3",
+          "relevance_score": 9,
+          "confidence": "high",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "accountability"
+          ],
+          "evidence": "Accountability is the title subject and the description defines the labs as practice in 'having each other's back instead of weaponizing blame', closing on 'turning accountability into a sustained, constructive practice'. Reframing accountability away from blame is the episode's central subject, stated plainly.",
+          "is_republication": false
+        },
+        {
+          "rank": 29,
           "record_id": "pb5849505",
           "episode_number": 42,
           "title": "PAPod 42 - Safety Differently - Daniel Hummerdal",
@@ -659,7 +679,7 @@
           "is_republication": false
         },
         {
-          "rank": 29,
+          "rank": 30,
           "record_id": "pb5584000",
           "episode_number": 13,
           "title": "PAPod 13 - An Engineer, Human Performance, and Life",
@@ -681,7 +701,7 @@
           "is_republication": false
         },
         {
-          "rank": 30,
+          "rank": 31,
           "record_id": "pb5765514",
           "episode_number": 33,
           "title": "PAPod 33 - Rob Fisher Talks About The Future of Human Performance",
@@ -702,7 +722,7 @@
           "is_republication": false
         },
         {
-          "rank": 31,
+          "rank": 32,
           "record_id": "pb6097679",
           "episode_number": 60,
           "title": "PAPod 60 - Safety Professionals and The Shift to the New View",
@@ -724,7 +744,7 @@
           "is_republication": false
         },
         {
-          "rank": 32,
+          "rank": 33,
           "record_id": "pb26857534",
           "episode_number": 570,
           "title": "PAPod 570 - Safety Differently Down Under: Todd Conklin in Auckland",
@@ -746,7 +766,7 @@
           "is_republication": false
         },
         {
-          "rank": 33,
+          "rank": 34,
           "record_id": "pb24231276",
           "episode_number": 520,
           "title": "PAPod 520 - Navigating Leadership: From Accountability to Responsibility",
@@ -767,7 +787,7 @@
           "is_republication": false
         },
         {
-          "rank": 34,
+          "rank": 35,
           "record_id": "pb10268562",
           "episode_number": 196,
           "title": "PAPod 196 - Some Comments on the Recent HOP vs. BBS Article in ASSP.",
@@ -788,7 +808,7 @@
           "is_republication": false
         },
         {
-          "rank": 35,
+          "rank": 36,
           "record_id": "pb6031565",
           "episode_number": 56,
           "title": "PAPod 56 - Diabolical Change - Nicole Barrett",
@@ -810,7 +830,7 @@
           "is_republication": false
         },
         {
-          "rank": 36,
+          "rank": 37,
           "record_id": "pb5730506",
           "episode_number": 27,
           "title": "PAPod 27 - Safety Differently - A conversation with Corrie Pitzer",
@@ -832,7 +852,7 @@
           "is_republication": false
         },
         {
-          "rank": 37,
+          "rank": 38,
           "record_id": "pb6244760",
           "episode_number": 72,
           "title": "PAPod 72 - Where LEAN and THE NEW VIEW intersect.  Catherine Warner",
@@ -854,7 +874,7 @@
           "is_republication": false
         },
         {
-          "rank": 38,
+          "rank": 39,
           "record_id": "pb6167613",
           "episode_number": 69,
           "title": "PAPod 69 - The New View of Safety - Zach Woods and Mike Rayo",
@@ -876,7 +896,7 @@
           "is_republication": false
         },
         {
-          "rank": 39,
+          "rank": 40,
           "record_id": "pb5921353",
           "episode_number": 47,
           "title": "PAPod 47 - Beyond Blame - Dave Zwieback",
@@ -898,7 +918,7 @@
           "is_republication": false
         },
         {
-          "rank": 40,
+          "rank": 41,
           "record_id": "pb5921362",
           "episode_number": null,
           "title": "Safety Moment - The Changing Way We View Workers",
@@ -920,7 +940,7 @@
           "is_republication": false
         },
         {
-          "rank": 41,
+          "rank": 42,
           "record_id": "pb11054030",
           "episode_number": 215,
           "title": "PAPod 215 - Friend of the Pod, Gareth Lock has an exciting new book!",
@@ -942,7 +962,7 @@
           "is_republication": false
         },
         {
-          "rank": 42,
+          "rank": 43,
           "record_id": "pb9978511",
           "episode_number": 189,
           "title": "PAPod 189 - Marc Yeston Struggles (out loud) with free will...",
@@ -964,7 +984,7 @@
           "is_republication": false
         },
         {
-          "rank": 43,
+          "rank": 44,
           "record_id": "pb26432426",
           "episode_number": 560,
           "title": "PAPOd 560 - When Hospitals Criminalize Error: A Patient Safety Reckoning",
@@ -986,7 +1006,7 @@
           "is_republication": false
         },
         {
-          "rank": 44,
+          "rank": 45,
           "record_id": "pb27880445",
           "episode_number": 593,
           "title": "PAPod 593 - Young Voices, System Thinking: A Conversation on Safety with Mousa Yassin",
@@ -1008,7 +1028,7 @@
           "is_republication": false
         },
         {
-          "rank": 45,
+          "rank": 46,
           "record_id": "pb26483828",
           "episode_number": 562,
           "title": "PAPod 562 - When 'I Forgot' Becomes Fatal: Preventing Children Left in Hot Cars",
@@ -1030,7 +1050,7 @@
           "is_republication": false
         },
         {
-          "rank": 46,
+          "rank": 47,
           "record_id": "pb10055965",
           "episode_number": 193,
           "title": "PAPod 193 - Top Ten Reasons Leaders Push Back",
@@ -1052,7 +1072,7 @@
           "is_republication": false
         },
         {
-          "rank": 47,
+          "rank": 48,
           "record_id": "pb6595209",
           "episode_number": null,
           "title": "Safety Moment - If it is emotionally satisfying - Do the opposite",
@@ -1074,7 +1094,7 @@
           "is_republication": false
         },
         {
-          "rank": 48,
+          "rank": 49,
           "record_id": "pb23514222",
           "episode_number": null,
           "title": "Safety Moment - The Power of Context: Free Will vs. Predeterminism in Workplace Safety",
@@ -1095,7 +1115,7 @@
           "is_republication": false
         },
         {
-          "rank": 49,
+          "rank": 50,
           "record_id": "pb9460564",
           "episode_number": null,
           "title": "Safety Moment - Principle Number 1 - Mistakes are normal",
@@ -1115,29 +1135,6 @@
           ],
           "evidence": "The title states that mistakes are normal, and the description identifies this as the first principle of Human Performance Improvement and New Safety thinking.",
           "is_republication": false
-        },
-        {
-          "rank": 50,
-          "record_id": "pb9460568",
-          "episode_number": null,
-          "title": "Safety Moment - Principle Number 2 - Blame Fixes Nothing",
-          "published_utc": "2018-05-09T18:00:00+00:00",
-          "content_type": "safety_moment",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/safety-moment-principle-number-2-blame-fixes-nothing/",
-          "media_url": "https://mcdn.podbean.com/mf/web/44nn28/Safety_Moment_-_Blame_fixes_nothing.mp3",
-          "relevance_score": 8,
-          "confidence": "high",
-          "qualifying": true,
-          "exception_inclusion": false,
-          "exception_status": null,
-          "subordinate_concepts": [
-            "blame",
-            "human_performance",
-            "human_error",
-            "context_of_behavior"
-          ],
-          "evidence": "The title states that blame fixes nothing, and the description places that claim alongside normal error, context-driven behavior, learning, and managerial response.",
-          "is_republication": false
         }
       ]
     },
@@ -1148,11 +1145,11 @@
       "folder": "02_event_learning_investigation",
       "taxonomy_version": "1.0",
       "ranking_status": "final",
-      "finalized_at_utc": "2026-07-30T12:05:53.446717+00:00",
-      "candidate_count": 51,
+      "finalized_at_utc": "2026-10-24T13:09:44.818980+00:00",
+      "candidate_count": 52,
       "published_rank_count": 50,
-      "full_ranked_pool_count": 51,
-      "reserve_count": 1,
+      "full_ranked_pool_count": 52,
+      "reserve_count": 2,
       "ranking_method": "thematic relevance",
       "episodes": [
         {
@@ -2067,6 +2064,26 @@
         },
         {
           "rank": 42,
+          "record_id": "pb28617480",
+          "episode_number": 615,
+          "title": "PAPod 615 - Leaders First: Why Safety Starts at the Top",
+          "published_utc": "2026-09-12T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/leaders-first-why-safety-starts-at-the-top/",
+          "media_url": "https://mcdn.podbean.com/mf/web/ugbgwtz2x5duvims/PAPod_XXX_-_Counter_Errorism_Podcast9yssj-dwv4pj-Optimized.mp3",
+          "relevance_score": 7,
+          "confidence": "medium",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "corrective_actions"
+          ],
+          "evidence": "Three of the listed topics concern investigation: 'how investigations should inform solutions rather than impose them', 'using judgments of need', and 'how DOE-style investigations differ from industry practices'. Investigation method and its link to solutions is a substantial subject alongside leadership.",
+          "is_republication": false
+        },
+        {
+          "rank": 43,
           "record_id": "pb19555229",
           "episode_number": null,
           "title": "Safety Moment - What Failed in a Real Life Event",
@@ -2088,7 +2105,7 @@
           "is_republication": false
         },
         {
-          "rank": 43,
+          "rank": 44,
           "record_id": "pb18127406",
           "episode_number": 368,
           "title": "PAPod 368 - Comparisons and Contrasts When Looking At Event is Inevitable",
@@ -2110,7 +2127,7 @@
           "is_republication": false
         },
         {
-          "rank": 44,
+          "rank": 45,
           "record_id": "pb20279400",
           "episode_number": 427,
           "title": "PAPod 427 - A New Failure Learning Resource - VOID",
@@ -2132,7 +2149,7 @@
           "is_republication": false
         },
         {
-          "rank": 45,
+          "rank": 46,
           "record_id": "pb20195672",
           "episode_number": null,
           "title": "Safety Moment - Near Misses Discussed",
@@ -2153,7 +2170,7 @@
           "is_republication": false
         },
         {
-          "rank": 46,
+          "rank": 47,
           "record_id": "pb9302432",
           "episode_number": 166,
           "title": "Sorry about the first one!...PAPod 166 - Third Try…How do you think about failure? Scott Shappell tells us more",
@@ -2174,7 +2191,7 @@
           "is_republication": false
         },
         {
-          "rank": 47,
+          "rank": 48,
           "record_id": "pb17926648",
           "episode_number": 363,
           "title": "PAPod 363 -A SIF Event on the Set of the Production of the Movie RUST",
@@ -2196,7 +2213,7 @@
           "is_republication": false
         },
         {
-          "rank": 48,
+          "rank": 49,
           "record_id": "pb17955354",
           "episode_number": null,
           "title": "Safety Moment - Exploring Disappointing Outcomes",
@@ -2218,7 +2235,7 @@
           "is_republication": false
         },
         {
-          "rank": 49,
+          "rank": 50,
           "record_id": "pb22420305",
           "episode_number": 486,
           "title": "PAPod 486 - One More Discussion of Fatal Events - and this is just for us.",
@@ -2238,28 +2255,6 @@
           ],
           "evidence": "The title identifies a discussion of fatal events, but the description offers no record-specific analytical evidence.",
           "is_republication": false
-        },
-        {
-          "rank": 50,
-          "record_id": "pb13714641",
-          "episode_number": 259,
-          "title": "PAPod 259 - A Podcast Given To The Ages - Professor Drew Rae on \"Disastercast\"",
-          "published_utc": "2020-02-01T18:00:00+00:00",
-          "content_type": "numbered_papod",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/papod-259-a-podcast-given-to-the-ages-professor-drew-rae-on-disaster-cast/",
-          "media_url": "https://mcdn.podbean.com/mf/web/9udbc8/PAPod_259_-_Drew_Rae_on_Podcasting_Life_and_the_Acadamy.mp3",
-          "relevance_score": 7,
-          "confidence": "low",
-          "qualifying": true,
-          "exception_inclusion": false,
-          "exception_status": null,
-          "subordinate_concepts": [
-            "accident_investigation",
-            "incident_investigation",
-            "lessons_learned"
-          ],
-          "evidence": "The title connects the episode to Disastercast, but boilerplate provides no specific evidence about investigation or lessons discussed.",
-          "is_republication": false
         }
       ]
     },
@@ -2270,11 +2265,11 @@
       "folder": "03_operational_learning_work_as_done",
       "taxonomy_version": "1.0",
       "ranking_status": "final",
-      "finalized_at_utc": "2026-07-31T22:08:51.485114+00:00",
-      "candidate_count": 60,
+      "finalized_at_utc": "2026-10-24T13:09:44.849781+00:00",
+      "candidate_count": 61,
       "published_rank_count": 50,
-      "full_ranked_pool_count": 60,
-      "reserve_count": 10,
+      "full_ranked_pool_count": 61,
+      "reserve_count": 11,
       "ranking_method": "thematic relevance",
       "episodes": [
         {
@@ -3059,6 +3054,26 @@
         },
         {
           "rank": 40,
+          "record_id": "pb28867571",
+          "episode_number": 620,
+          "title": "PAPod 620 - From Risk to Mission: Rethinking Safety at Golden Gate",
+          "published_utc": "2026-10-17T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/from-risk-to-mission-rethinking-safety-at-golden-gate/",
+          "media_url": "https://mcdn.podbean.com/mf/web/mkvmr732ry3qigk5/PAPod_XXX-_Alcatrazasnlo-tafvt9-Optimized.mp3",
+          "relevance_score": 8,
+          "confidence": "high",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "listening"
+          ],
+          "evidence": "The description makes 'listening to frontline workers' the source of 'practical, predictive knowledge', treats 'expertise' as a core part of the safety program, and closes with 'real-world stories from lifeguards and park teams' showing how 'workforce engagement' improves reliability. Worker knowledge is the episode's organizing idea alongside the shift from risk to mission.",
+          "is_republication": false
+        },
+        {
+          "rank": 41,
           "record_id": "pb6464256",
           "episode_number": null,
           "title": "Safety Moment - Hazards are Fluid - Those Babies Move!",
@@ -3078,7 +3093,7 @@
           "is_republication": false
         },
         {
-          "rank": 41,
+          "rank": 42,
           "record_id": "pb5891231",
           "episode_number": null,
           "title": "Safety Moment - Why Workers Don't Fix Problems",
@@ -3098,7 +3113,7 @@
           "is_republication": false
         },
         {
-          "rank": 42,
+          "rank": 43,
           "record_id": "pb7179263",
           "episode_number": null,
           "title": "Safety Moment - Fix The Worker!",
@@ -3118,7 +3133,7 @@
           "is_republication": false
         },
         {
-          "rank": 43,
+          "rank": 44,
           "record_id": "pb7309752",
           "episode_number": null,
           "title": "Safety Moment - The Power of Micro Learning",
@@ -3138,7 +3153,7 @@
           "is_republication": false
         },
         {
-          "rank": 44,
+          "rank": 45,
           "record_id": "pb26857534",
           "episode_number": 570,
           "title": "PAPod 570 - Safety Differently Down Under: Todd Conklin in Auckland",
@@ -3158,7 +3173,7 @@
           "is_republication": false
         },
         {
-          "rank": 45,
+          "rank": 46,
           "record_id": "pb5845164",
           "episode_number": 41,
           "title": "PAPod 41 - Comedian Kent Whipple and the power of the story",
@@ -3178,7 +3193,7 @@
           "is_republication": false
         },
         {
-          "rank": 46,
+          "rank": 47,
           "record_id": "pb5523770",
           "episode_number": 9,
           "title": "PAPod 9 - Let's talk about COMPLEXITY and organizations with Jim Barker",
@@ -3198,7 +3213,7 @@
           "is_republication": false
         },
         {
-          "rank": 47,
+          "rank": 48,
           "record_id": "pb6965870",
           "episode_number": 124,
           "title": "PAPod 124- Tare-Away Gloves and New Thinking",
@@ -3218,7 +3233,7 @@
           "is_republication": false
         },
         {
-          "rank": 48,
+          "rank": 49,
           "record_id": "pb5780441",
           "episode_number": null,
           "title": "Safety Moment - Experts, Safety, and Margins",
@@ -3238,7 +3253,7 @@
           "is_republication": false
         },
         {
-          "rank": 49,
+          "rank": 50,
           "record_id": "pb5629497",
           "episode_number": 19,
           "title": "PAPod 19 - Marc Yeston on Leading High Reliability",
@@ -3256,26 +3271,6 @@
           ],
           "evidence": "The record draws lessons from leading high-risk field teams and identifies operational experience as an important source of learning.",
           "is_republication": false
-        },
-        {
-          "rank": 50,
-          "record_id": "pb6569084",
-          "episode_number": 96,
-          "title": "PAPod 96 - Safety Storytelling - Disastercast",
-          "published_utc": "2016-11-12T18:00:00+00:00",
-          "content_type": "numbered_papod",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/papod-96-safety-storytelling-disastercast/",
-          "media_url": "https://mcdn.podbean.com/mf/web/seh947/PAPod_96_-_Drew_Rae_.mp3",
-          "relevance_score": 7,
-          "confidence": "medium",
-          "qualifying": true,
-          "exception_inclusion": false,
-          "exception_status": null,
-          "subordinate_concepts": [
-            "storytelling"
-          ],
-          "evidence": "Storytelling is expressly connected to safety and operational learning, but the metadata provides limited detail about the operational knowledge conveyed.",
-          "is_republication": false
         }
       ]
     },
@@ -3286,11 +3281,11 @@
       "folder": "04_leadership_change",
       "taxonomy_version": "1.0",
       "ranking_status": "final",
-      "finalized_at_utc": "2026-08-01T13:44:18.400973+00:00",
-      "candidate_count": 59,
+      "finalized_at_utc": "2026-10-24T13:09:44.839574+00:00",
+      "candidate_count": 62,
       "published_rank_count": 50,
-      "full_ranked_pool_count": 59,
-      "reserve_count": 9,
+      "full_ranked_pool_count": 62,
+      "reserve_count": 12,
       "ranking_method": "thematic relevance",
       "episodes": [
         {
@@ -3635,6 +3630,26 @@
         },
         {
           "rank": 18,
+          "record_id": "pb28756162",
+          "episode_number": 617,
+          "title": "PAPod 617 - Rome Wasn't Built at 8 a.m.: The Case Against Immediate Improvement",
+          "published_utc": "2026-09-26T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/rome-wasnt-built-at-8-am-the-case-against-big%e2%80%91bang-rollouts/",
+          "media_url": "https://mcdn.podbean.com/mf/web/2pj2ragnxcn8v3fp/PAPod_XXX_-_After_Dad-comments_on_progress8kh6v-yzaddk-Optimized.mp3",
+          "relevance_score": 8,
+          "confidence": "high",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "implementation"
+          ],
+          "evidence": "The whole description is an argument about how improvement is implemented: 'big-bang rollouts and sudden change cause chaos', while 'slow, incremental implementations let organizations prototype, find hidden flaws, build buy-in, and protect core operations'. Implementation pace and buy-in are the subject, stated plainly in the title.",
+          "is_republication": false
+        },
+        {
+          "rank": 19,
           "record_id": "pb26092276",
           "episode_number": 552,
           "title": "PAPod 552 - Uncovering the Power of Skepticism in Safety Leadership",
@@ -3654,7 +3669,7 @@
           "is_republication": false
         },
         {
-          "rank": 19,
+          "rank": 20,
           "record_id": "pb22738364",
           "episode_number": null,
           "title": "Safety Moment - Integration and Competency in Safety Practices",
@@ -3674,7 +3689,7 @@
           "is_republication": false
         },
         {
-          "rank": 20,
+          "rank": 21,
           "record_id": "pb6097679",
           "episode_number": 60,
           "title": "PAPod 60 - Safety Professionals and The Shift to the New View",
@@ -3694,7 +3709,7 @@
           "is_republication": false
         },
         {
-          "rank": 21,
+          "rank": 22,
           "record_id": "pb6244791",
           "episode_number": 74,
           "title": "PAPod 74 - New View Safety - Senior Leaders Saga - Superior Industries",
@@ -3714,7 +3729,7 @@
           "is_republication": false
         },
         {
-          "rank": 22,
+          "rank": 23,
           "record_id": "pb25013864",
           "episode_number": 533,
           "title": "PAPod 533 - Exploring the Future with Doug Parker and Jim Frederick",
@@ -3734,7 +3749,7 @@
           "is_republication": false
         },
         {
-          "rank": 23,
+          "rank": 24,
           "record_id": "pb25013847",
           "episode_number": 532,
           "title": "PAPod 532 - Lessons from Leadership with Doug Parker and Jim Frederick",
@@ -3754,7 +3769,7 @@
           "is_republication": false
         },
         {
-          "rank": 24,
+          "rank": 25,
           "record_id": "pb24231276",
           "episode_number": 520,
           "title": "PAPod 520 - Navigating Leadership: From Accountability to Responsibility",
@@ -3774,7 +3789,7 @@
           "is_republication": false
         },
         {
-          "rank": 25,
+          "rank": 26,
           "record_id": "pb26092340",
           "episode_number": 555,
           "title": "PAPod 555 - CHOL Live - \"Unveiling Future Predictions: Podcast Reflections\"",
@@ -3794,7 +3809,7 @@
           "is_republication": false
         },
         {
-          "rank": 26,
+          "rank": 27,
           "record_id": "pb5812029",
           "episode_number": 36,
           "title": "PAPod 36 - Martha Acosta Returns - The 4 Things Leaders Control",
@@ -3814,7 +3829,7 @@
           "is_republication": false
         },
         {
-          "rank": 27,
+          "rank": 28,
           "record_id": "pb24231694",
           "episode_number": null,
           "title": "Safety Moment - The Power of Happiness in Organizational Change",
@@ -3834,7 +3849,7 @@
           "is_republication": false
         },
         {
-          "rank": 28,
+          "rank": 29,
           "record_id": "pb26620784",
           "episode_number": 565,
           "title": "PAPod 565 - Fear, FOMO & Fixing Safety: A Conversation with Brent Sutton",
@@ -3854,7 +3869,7 @@
           "is_republication": false
         },
         {
-          "rank": 29,
+          "rank": 30,
           "record_id": "pb28145021",
           "episode_number": 601,
           "title": "PAPod 601 - Rethinking Safety: AI, Pre-Jobs, and the Power of Listening",
@@ -3874,7 +3889,7 @@
           "is_republication": false
         },
         {
-          "rank": 30,
+          "rank": 31,
           "record_id": "pb27996562",
           "episode_number": 597,
           "title": "PAPod 597 - From the way, way, way, way, back machine...Pain as a Predictor: Martha Acosta on Finding the Signals Before Failure",
@@ -3894,7 +3909,7 @@
           "is_republication": false
         },
         {
-          "rank": 31,
+          "rank": 32,
           "record_id": "pb25698825",
           "episode_number": 543,
           "title": "PAPod 543 - Navigating Toxic Uncertainty: Insights for Leaders",
@@ -3914,7 +3929,7 @@
           "is_republication": false
         },
         {
-          "rank": 32,
+          "rank": 33,
           "record_id": "pb9716159",
           "episode_number": 180,
           "title": "PAPod 180 - Leadership Planning for Failure...BEFORE it happens...May be the best hour your organization can spend.",
@@ -3934,7 +3949,7 @@
           "is_republication": false
         },
         {
-          "rank": 33,
+          "rank": 34,
           "record_id": "pb7689206",
           "episode_number": null,
           "title": "Safety Moment - What Leadership Sounds Like...",
@@ -3954,7 +3969,7 @@
           "is_republication": false
         },
         {
-          "rank": 34,
+          "rank": 35,
           "record_id": "pb22738372",
           "episode_number": null,
           "title": "Safety Moment - Enlightening Insights for Leaders",
@@ -3974,7 +3989,7 @@
           "is_republication": false
         },
         {
-          "rank": 35,
+          "rank": 36,
           "record_id": "pb23415374",
           "episode_number": null,
           "title": "Safety Moment - Good Leaders, Great Learners: The Path to Effective Leadership",
@@ -3994,7 +4009,7 @@
           "is_republication": false
         },
         {
-          "rank": 36,
+          "rank": 37,
           "record_id": "pb6802691",
           "episode_number": 111,
           "title": "PAPod 111 - How Manager's Should Think About PreJob Briefs",
@@ -4014,7 +4029,7 @@
           "is_republication": false
         },
         {
-          "rank": 37,
+          "rank": 38,
           "record_id": "pb5514782",
           "episode_number": null,
           "title": "Safety Moment - Success of Failure?",
@@ -4034,7 +4049,7 @@
           "is_republication": false
         },
         {
-          "rank": 38,
+          "rank": 39,
           "record_id": "pb7309771",
           "episode_number": null,
           "title": "Safety Moment - Most Process Improvement is Free.",
@@ -4054,7 +4069,7 @@
           "is_republication": false
         },
         {
-          "rank": 39,
+          "rank": 40,
           "record_id": "pb26092323",
           "episode_number": 554,
           "title": "PAPod 554 - CHOL Live - The Power of Learning Teams: Transforming Leadership Response",
@@ -4074,7 +4089,7 @@
           "is_republication": false
         },
         {
-          "rank": 40,
+          "rank": 41,
           "record_id": "pb22737569",
           "episode_number": 491,
           "title": "PAPod 491 - Empirical Vs Emotional Decision Making with Drew Rae",
@@ -4094,7 +4109,7 @@
           "is_republication": false
         },
         {
-          "rank": 41,
+          "rank": 42,
           "record_id": "pb5921371",
           "episode_number": 48,
           "title": "PAPod 48 - A couple of friends...sitting around talking.  Status Update on Contact Energy",
@@ -4114,7 +4129,7 @@
           "is_republication": false
         },
         {
-          "rank": 42,
+          "rank": 43,
           "record_id": "pb23562644",
           "episode_number": null,
           "title": "Safety Moment - The Power of Weak Signals in Safety Management",
@@ -4134,7 +4149,7 @@
           "is_republication": false
         },
         {
-          "rank": 43,
+          "rank": 44,
           "record_id": "pb26857534",
           "episode_number": 570,
           "title": "PAPod 570 - Safety Differently Down Under: Todd Conklin in Auckland",
@@ -4154,7 +4169,7 @@
           "is_republication": false
         },
         {
-          "rank": 44,
+          "rank": 45,
           "record_id": "pb23308667",
           "episode_number": 502,
           "title": "PAPod 502 - Inside the Minds of Healthcare Safety Warriors: A Hospital Roundtable Discussion",
@@ -4174,7 +4189,27 @@
           "is_republication": false
         },
         {
-          "rank": 45,
+          "rank": 46,
+          "record_id": "pb28617480",
+          "episode_number": 615,
+          "title": "PAPod 615 - Leaders First: Why Safety Starts at the Top",
+          "published_utc": "2026-09-12T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/leaders-first-why-safety-starts-at-the-top/",
+          "media_url": "https://mcdn.podbean.com/mf/web/ugbgwtz2x5duvims/PAPod_XXX_-_Counter_Errorism_Podcast9yssj-dwv4pj-Optimized.mp3",
+          "relevance_score": 7,
+          "confidence": "medium",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "leadership_management"
+          ],
+          "evidence": "The title 'Leaders First: Why Safety Starts at the Top' and the topics 'leadership change' and 'shifting leaders' thinking' make leadership the headline, but the short description names no specific leader behavior or implementation mechanism.",
+          "is_republication": false
+        },
+        {
+          "rank": 47,
           "record_id": "pb22737538",
           "episode_number": 490,
           "title": "PAPod 490 - A Panel Discussion on Safety Practices",
@@ -4194,7 +4229,27 @@
           "is_republication": false
         },
         {
-          "rank": 46,
+          "rank": 48,
+          "record_id": "pb28659775",
+          "episode_number": 616,
+          "title": "PAPod 616 - OSHA’s New Playbook: From Enforcement to Partnership",
+          "published_utc": "2026-09-19T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/osha-s-new-playbook-from-enforcement-to-partnership/",
+          "media_url": "https://mcdn.podbean.com/mf/web/c722789vr67i3p9w/PAPod_616_-_David_L_Keelingbsesx-ap63ek-Optimized.mp3",
+          "relevance_score": 7,
+          "confidence": "medium",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "organizational_change"
+          ],
+          "evidence": "The title and description describe an institutional change in regulatory strategy, 'OSHA's shift toward partnership', with new and refreshed programs (VPP, Safety Champions), 'leadership's role', and 'incentives to drive abatement and innovation'. The change is substantive but the description is a topic list.",
+          "is_republication": false
+        },
+        {
+          "rank": 49,
           "record_id": "pb27568933",
           "episode_number": 586,
           "title": "PAPod 586 - VUCA, Uncertainty, and the Case for Innovation",
@@ -4214,7 +4269,7 @@
           "is_republication": false
         },
         {
-          "rank": 47,
+          "rank": 50,
           "record_id": "pb10862628",
           "episode_number": 211,
           "title": "PAPod 211 - The 5 Stages of HOP Organizational Transformation - Bob, Andrea, Marc, and Todd all chime in - at once",
@@ -4232,66 +4287,6 @@
           ],
           "evidence": "The specific title identifies a five-stage organizational-transformation process, but the description provides no usable record-specific support for the stages or their implementation.",
           "is_republication": false
-        },
-        {
-          "rank": 48,
-          "record_id": "pb15766595",
-          "episode_number": 311,
-          "title": "PAPod 311 - Reg Sopka and Chris McCullough - A Guide To Organizational Change From The Inside.",
-          "published_utc": "2020-10-31T18:01:00+00:00",
-          "content_type": "numbered_papod",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/papod-311-reg-sopka-and-chris-mccullough-a-guide-to-organizational-change-from-the-inside/",
-          "media_url": "https://mcdn.podbean.com/mf/web/wad9yk/PAPod_311_-_Reg_Sopka_and_Chres_McCullough_Part_1amofx.mp3",
-          "relevance_score": 8,
-          "confidence": "medium",
-          "qualifying": true,
-          "exception_inclusion": false,
-          "exception_status": null,
-          "subordinate_concepts": [
-            "change_management"
-          ],
-          "evidence": "The title explicitly presents an internal guide to organizational change, but the description is boilerplate and does not identify the change process or management mechanisms.",
-          "is_republication": false
-        },
-        {
-          "rank": 49,
-          "record_id": "pb21598826",
-          "episode_number": 461,
-          "title": "PAPod 461 - Even Senior Leadership Needs to Get Excited About Change - A Case Study in The United States Navy",
-          "published_utc": "2023-09-09T18:00:00+00:00",
-          "content_type": "numbered_papod",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/papod-461-even-senior-leadership-needs-to-get-excited-about-change-a-case-study-in-the-united-states-navy/",
-          "media_url": "https://mcdn.podbean.com/mf/web/m6zwpk/PAPod_461_-_RAdm_John_Meyer_6qifi.mp3",
-          "relevance_score": 8,
-          "confidence": "medium",
-          "qualifying": true,
-          "exception_inclusion": false,
-          "exception_status": null,
-          "subordinate_concepts": [
-            "executive_leadership"
-          ],
-          "evidence": "The title frames senior-leadership engagement in change through a United States Navy case study, but the available description does not substantiate the leadership actions or change mechanism.",
-          "is_republication": false
-        },
-        {
-          "rank": 50,
-          "record_id": "pb21407440",
-          "episode_number": null,
-          "title": "Safety Moment - Risk as a Change Management Tool",
-          "published_utc": "2023-08-16T18:00:00+00:00",
-          "content_type": "safety_moment",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/safety-moment-risk-as-a-change-management-tool/",
-          "media_url": "https://mcdn.podbean.com/mf/web/n6wg4b/Safety_Moment_-_Risk_as_a_Change_Lever8wwhs.mp3",
-          "relevance_score": 7,
-          "confidence": "medium",
-          "qualifying": true,
-          "exception_inclusion": false,
-          "exception_status": null,
-          "subordinate_concepts": [
-            "change_management"
-          ],
-          "evidence": "The title identifies risk as a specific change-management tool, but no record-specific description explains how the tool is applied or sustained.",
-          "is_republication": false
         }
       ]
     },
@@ -4302,11 +4297,11 @@
       "folder": "05_culture_trust_psychological_safety",
       "taxonomy_version": "1.0",
       "ranking_status": "final",
-      "finalized_at_utc": "2026-08-01T19:17:54.763666+00:00",
-      "candidate_count": 50,
+      "finalized_at_utc": "2026-10-24T13:09:44.807025+00:00",
+      "candidate_count": 52,
       "published_rank_count": 50,
-      "full_ranked_pool_count": 50,
-      "reserve_count": 0,
+      "full_ranked_pool_count": 52,
+      "reserve_count": 2,
       "ranking_method": "thematic relevance",
       "episodes": [
         {
@@ -4391,6 +4386,26 @@
         },
         {
           "rank": 5,
+          "record_id": "pb28469881",
+          "episode_number": 612,
+          "title": "PAPod 612 - Speak Up or Stay Silent: Amy Edmondson on Psychological Safety",
+          "published_utc": "2026-08-22T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/speak-up-or-stay-silent-amy-edmondson-on-psychological-safety/",
+          "media_url": "https://mcdn.podbean.com/mf/web/f29b8xjsgrp93hbn/PAPod_612_-_Amy_Edmondsonanzxn-pe99js-Optimized.mp3",
+          "relevance_score": 9,
+          "confidence": "high",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "psychological_safety"
+          ],
+          "evidence": "Psychological safety is the title subject and the description centers 'workplaces where people speak up and learn', 'candid dialogue', and 'collective learning'. The conversation is described as wide-ranging and also covers learning from failure, just culture, and systems thinking, so it is a 9 rather than a 10.",
+          "is_republication": false
+        },
+        {
+          "rank": 6,
           "record_id": "pb25533992",
           "episode_number": 539,
           "title": "PAPod 539 - From the Archives:  Unlocking Cultural Sustainability with Edgar Schein",
@@ -4410,7 +4425,7 @@
           "is_republication": false
         },
         {
-          "rank": 6,
+          "rank": 7,
           "record_id": "pb5845142",
           "episode_number": null,
           "title": "Safety Moment - Zero is the outcome - NOT THE PROCESS",
@@ -4430,7 +4445,7 @@
           "is_republication": false
         },
         {
-          "rank": 7,
+          "rank": 8,
           "record_id": "pb26676649",
           "episode_number": 566,
           "title": "PAPod 566 - Blame Stops Improvement: How Blame Silences Learning",
@@ -4450,7 +4465,7 @@
           "is_republication": false
         },
         {
-          "rank": 8,
+          "rank": 9,
           "record_id": "pb6031565",
           "episode_number": 56,
           "title": "PAPod 56 - Diabolical Change - Nicole Barrett",
@@ -4470,7 +4485,7 @@
           "is_republication": false
         },
         {
-          "rank": 9,
+          "rank": 10,
           "record_id": "pb25067322",
           "episode_number": 534,
           "title": "PAPod 534 - Embracing Māori Culture in Modern Safety Practices - Meet Vance Walker",
@@ -4490,7 +4505,7 @@
           "is_republication": false
         },
         {
-          "rank": 10,
+          "rank": 11,
           "record_id": "pb27880449",
           "episode_number": 594,
           "title": "PAPod 594 - Bridging Cultures: Safety, Migrant Workers, and the Heart of Agribusiness",
@@ -4510,7 +4525,7 @@
           "is_republication": false
         },
         {
-          "rank": 11,
+          "rank": 12,
           "record_id": "pb6897860",
           "episode_number": null,
           "title": "Safety Moment - Lather, Rinse, Repeat",
@@ -4530,7 +4545,7 @@
           "is_republication": false
         },
         {
-          "rank": 12,
+          "rank": 13,
           "record_id": "pb22935430",
           "episode_number": 494,
           "title": "PAPod 494 - Decoding Cultural Diversity at Emirates Airline with Nicholas Dahlstrom",
@@ -4550,7 +4565,7 @@
           "is_republication": false
         },
         {
-          "rank": 13,
+          "rank": 14,
           "record_id": "pb22997912",
           "episode_number": null,
           "title": "Safety Moment - Delving Beyond Surface-level Problems",
@@ -4570,7 +4585,7 @@
           "is_republication": false
         },
         {
-          "rank": 14,
+          "rank": 15,
           "record_id": "pb23415271",
           "episode_number": 504,
           "title": "PAPod 504 - Transforming Safety Culture in Children's Hospitals: Part 3",
@@ -4590,7 +4605,7 @@
           "is_republication": false
         },
         {
-          "rank": 15,
+          "rank": 16,
           "record_id": "pb6390057",
           "episode_number": null,
           "title": "Safety Moment - Instructions for Building Trust",
@@ -4610,7 +4625,7 @@
           "is_republication": false
         },
         {
-          "rank": 16,
+          "rank": 17,
           "record_id": "pb27748202",
           "episode_number": 590,
           "title": "PAPod 590 - Gird Your Loins: NASA, Risk, and the Return of Recrudescence",
@@ -4630,7 +4645,7 @@
           "is_republication": false
         },
         {
-          "rank": 17,
+          "rank": 18,
           "record_id": "pb22983728",
           "episode_number": 496,
           "title": "PAPod 496 - A Deep Dive into a Energy Company's Resilience with Christian Gould",
@@ -4650,7 +4665,7 @@
           "is_republication": false
         },
         {
-          "rank": 18,
+          "rank": 19,
           "record_id": "pb28164831",
           "episode_number": 602,
           "title": "PAPod 602 - From Brazil with Safety: Gilval and the New View Revolution",
@@ -4670,7 +4685,27 @@
           "is_republication": false
         },
         {
-          "rank": 19,
+          "rank": 20,
+          "record_id": "pb28617477",
+          "episode_number": 614,
+          "title": "PAPod 614 - Accountability Labs: Learning to Have Each Other’s Back",
+          "published_utc": "2026-09-05T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/accountability-labs-learning-to-have-each-other-s-back/",
+          "media_url": "https://mcdn.podbean.com/mf/web/98g3c8qim8eh5enj/PAPod_XXX_-_Jen_Long_Accountability_Labs90syn-4mgz9h-Optimized.mp3",
+          "relevance_score": 7,
+          "confidence": "high",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "psychological_safety"
+          ],
+          "evidence": "The description states the labs 'create psychological safety and readiness' so participants 'develop the language and muscle memory to speak up when it matters'. Psychological safety and speaking up are explicit outcomes and mechanisms, alongside the dominant accountability subject.",
+          "is_republication": false
+        },
+        {
+          "rank": 21,
           "record_id": "pb27359071",
           "episode_number": 580,
           "title": "PAPod 580 - Start Right, End Safe: Building Better Encounters in 2026",
@@ -4690,7 +4725,7 @@
           "is_republication": false
         },
         {
-          "rank": 20,
+          "rank": 22,
           "record_id": "pb23308667",
           "episode_number": 502,
           "title": "PAPod 502 - Inside the Minds of Healthcare Safety Warriors: A Hospital Roundtable Discussion",
@@ -4710,7 +4745,7 @@
           "is_republication": false
         },
         {
-          "rank": 21,
+          "rank": 23,
           "record_id": "pb23514222",
           "episode_number": null,
           "title": "Safety Moment - The Power of Context: Free Will vs. Predeterminism in Workplace Safety",
@@ -4730,7 +4765,7 @@
           "is_republication": false
         },
         {
-          "rank": 22,
+          "rank": 24,
           "record_id": "pb21010432",
           "episode_number": null,
           "title": "Safety Moment - Psychological Safety is a Group Dynamic",
@@ -4750,7 +4785,7 @@
           "is_republication": false
         },
         {
-          "rank": 23,
+          "rank": 25,
           "record_id": "pb16422492",
           "episode_number": 327,
           "title": "PAPod 327 - Psychological Safety Workshop with Martha Acosta",
@@ -4770,7 +4805,7 @@
           "is_republication": false
         },
         {
-          "rank": 24,
+          "rank": 26,
           "record_id": "pb22103396",
           "episode_number": 473,
           "title": "PAPod 473 - The Three Parts of Organizational Culture",
@@ -4790,7 +4825,7 @@
           "is_republication": false
         },
         {
-          "rank": 25,
+          "rank": 27,
           "record_id": "pb6449956",
           "episode_number": 88,
           "title": "PAPod 88 - Edgar Schein - The Father of Organizational Culture Speaks",
@@ -4810,7 +4845,7 @@
           "is_republication": false
         },
         {
-          "rank": 26,
+          "rank": 28,
           "record_id": "pb19318333",
           "episode_number": null,
           "title": "Safety Moment - Psychological Safety and Farm Animals",
@@ -4830,7 +4865,7 @@
           "is_republication": false
         },
         {
-          "rank": 27,
+          "rank": 29,
           "record_id": "pb14740072",
           "episode_number": 290,
           "title": "PAPod 290 - A Fire Chief Speaks About Capacity, Honesty, and Psychological Safety - Bert Brugghemans Returns",
@@ -4850,7 +4885,7 @@
           "is_republication": false
         },
         {
-          "rank": 28,
+          "rank": 30,
           "record_id": "pb19694767",
           "episode_number": 412,
           "title": "PAPod 412 - Speaking In - Not Speaking Up",
@@ -4870,7 +4905,7 @@
           "is_republication": false
         },
         {
-          "rank": 29,
+          "rank": 31,
           "record_id": "pb9330591",
           "episode_number": 169,
           "title": "PAPod 169 - A Happy Culture is a Safe Culture - Paul Krismer Happily Shares His Ideas",
@@ -4890,7 +4925,7 @@
           "is_republication": false
         },
         {
-          "rank": 30,
+          "rank": 32,
           "record_id": "pb15983234",
           "episode_number": null,
           "title": "Safety Moment - Trust, Chronic Uncertainty, and Data",
@@ -4910,7 +4945,7 @@
           "is_republication": false
         },
         {
-          "rank": 31,
+          "rank": 33,
           "record_id": "pb21192499",
           "episode_number": null,
           "title": "Safety Moment - Why is Trust Like Shampoo?",
@@ -4930,7 +4965,7 @@
           "is_republication": false
         },
         {
-          "rank": 32,
+          "rank": 34,
           "record_id": "pb9843401",
           "episode_number": null,
           "title": "Safety Moment - Trust and Judgement",
@@ -4950,7 +4985,7 @@
           "is_republication": false
         },
         {
-          "rank": 33,
+          "rank": 35,
           "record_id": "pb9843439",
           "episode_number": null,
           "title": "Safety Moment - Trust Rides a Horse",
@@ -4970,7 +5005,7 @@
           "is_republication": false
         },
         {
-          "rank": 34,
+          "rank": 36,
           "record_id": "pb9512713",
           "episode_number": 175,
           "title": "PAPod 175 - Just Culture: The Movie - Sidney Dekker's Interview on the Documentary",
@@ -4990,7 +5025,7 @@
           "is_republication": false
         },
         {
-          "rank": 35,
+          "rank": 37,
           "record_id": "pb24231276",
           "episode_number": 520,
           "title": "PAPod 520 - Navigating Leadership: From Accountability to Responsibility",
@@ -5010,7 +5045,7 @@
           "is_republication": false
         },
         {
-          "rank": 36,
+          "rank": 38,
           "record_id": "pb26092323",
           "episode_number": 554,
           "title": "PAPod 554 - CHOL Live - The Power of Learning Teams: Transforming Leadership Response",
@@ -5030,7 +5065,7 @@
           "is_republication": false
         },
         {
-          "rank": 37,
+          "rank": 39,
           "record_id": "pb24470500",
           "episode_number": 526,
           "title": "PAPod 526 - The Power of Conversations in the Workplace",
@@ -5050,7 +5085,7 @@
           "is_republication": false
         },
         {
-          "rank": 38,
+          "rank": 40,
           "record_id": "pb5845164",
           "episode_number": 41,
           "title": "PAPod 41 - Comedian Kent Whipple and the power of the story",
@@ -5070,7 +5105,7 @@
           "is_republication": false
         },
         {
-          "rank": 39,
+          "rank": 41,
           "record_id": "pb27880473",
           "episode_number": 595,
           "title": "PAPod 595 - Beyond Checklists: How Conversations Transform Safety Culture",
@@ -5090,7 +5125,7 @@
           "is_republication": false
         },
         {
-          "rank": 40,
+          "rank": 42,
           "record_id": "pb23308897",
           "episode_number": 503,
           "title": "PAPod 503 - Harnessing Frontline Expertise: The Key to Safer Children's Hospitals",
@@ -5110,7 +5145,7 @@
           "is_republication": false
         },
         {
-          "rank": 41,
+          "rank": 43,
           "record_id": "pb28328700",
           "episode_number": 606,
           "title": "PAPod 606 - At the Cusp: How Leadership, Compassion and Worker Voice Are Rewriting Safety",
@@ -5130,7 +5165,7 @@
           "is_republication": false
         },
         {
-          "rank": 42,
+          "rank": 44,
           "record_id": "pb27188586",
           "episode_number": 577,
           "title": "PAPod 577 - Near Misses: The Unexpected Gift That Keeps Workers Safe",
@@ -5150,7 +5185,7 @@
           "is_republication": false
         },
         {
-          "rank": 43,
+          "rank": 45,
           "record_id": "pb27880445",
           "episode_number": 593,
           "title": "PAPod 593 - Young Voices, System Thinking: A Conversation on Safety with Mousa Yassin",
@@ -5170,7 +5205,7 @@
           "is_republication": false
         },
         {
-          "rank": 44,
+          "rank": 46,
           "record_id": "pb26686284",
           "episode_number": 569,
           "title": "PAPod 569 - PART TWO: 11 Seconds: How a System, Not a Nurse, Failed",
@@ -5190,7 +5225,7 @@
           "is_republication": false
         },
         {
-          "rank": 45,
+          "rank": 47,
           "record_id": "pb5845155",
           "episode_number": null,
           "title": "Safety Moment - Transparency is the solution for complexity",
@@ -5210,7 +5245,7 @@
           "is_republication": false
         },
         {
-          "rank": 46,
+          "rank": 48,
           "record_id": "pb8473483",
           "episode_number": 155,
           "title": "PAPod 155 - Safety Culture from the Horse's Mouth - Meet Mark Fleming",
@@ -5230,7 +5265,7 @@
           "is_republication": false
         },
         {
-          "rank": 47,
+          "rank": 49,
           "record_id": "pb10908884",
           "episode_number": 210,
           "title": "PAPod 210 - Culture, Reliability, Safety, and Capacity...",
@@ -5250,7 +5285,7 @@
           "is_republication": false
         },
         {
-          "rank": 48,
+          "rank": 50,
           "record_id": "pb24182998",
           "episode_number": 519,
           "title": "PAPod 519 - Good Gets Better, Bad Gets Worse: Navigating Change and Safety",
@@ -5268,46 +5303,6 @@
           ],
           "evidence": "The episode explicitly advocates fostering a culture of psychological safety and openness to dialogue as conditions supporting organizational growth and safety improvement.",
           "is_republication": false
-        },
-        {
-          "rank": 49,
-          "record_id": "pb26092276",
-          "episode_number": 552,
-          "title": "PAPod 552 - Uncovering the Power of Skepticism in Safety Leadership",
-          "published_utc": "2025-06-28T18:00:00+00:00",
-          "content_type": "numbered_papod",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/uncovering-the-power-of-skepticism-in-safety-leadership/",
-          "media_url": "https://mcdn.podbean.com/mf/web/i9db5impsngcdcj6/PAAPod_5XX_-_Conklin_Conference_Open_Q_A6em70-9yrvjv-Optimized.mp3",
-          "relevance_score": 5,
-          "confidence": "high",
-          "qualifying": false,
-          "exception_inclusion": true,
-          "exception_status": "explicitly_authorized_project_exception",
-          "subordinate_concepts": [
-            "openness"
-          ],
-          "evidence": "The discussion connects curiosity, meaningful dialogue, communication, and constructive treatment of skepticism to fostering an organizational culture of openness.",
-          "is_republication": false
-        },
-        {
-          "rank": 50,
-          "record_id": "pb23937167",
-          "episode_number": 515,
-          "title": "PAPod 515 - Engaging Insights from the Santa Fe Workshop Q&A Session",
-          "published_utc": "2024-09-21T18:00:00+00:00",
-          "content_type": "numbered_papod",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/engaging-insights-from-the-santa-fe-workshop-qa-session/",
-          "media_url": "https://mcdn.podbean.com/mf/web/3cmgsabxt749y5sw/PAPod_515_-_Santa_Fe_Workshop_Part_Twobdcjv-3qrrqz-Optimized.mp3",
-          "relevance_score": 5,
-          "confidence": "high",
-          "qualifying": false,
-          "exception_inclusion": true,
-          "exception_status": "explicitly_authorized_project_exception",
-          "subordinate_concepts": [
-            "trust"
-          ],
-          "evidence": "Trust within teams and the development of a proactive safety culture are substantive workshop topics, although they share attention with risk and operational learning.",
-          "is_republication": false
         }
       ]
     },
@@ -5318,11 +5313,11 @@
       "folder": "06_systems_resilience_crisis",
       "taxonomy_version": "1.0",
       "ranking_status": "final",
-      "finalized_at_utc": "2026-08-01T20:18:05.311450+00:00",
-      "candidate_count": 50,
+      "finalized_at_utc": "2026-10-24T13:09:44.869373+00:00",
+      "candidate_count": 52,
       "published_rank_count": 50,
-      "full_ranked_pool_count": 50,
-      "reserve_count": 0,
+      "full_ranked_pool_count": 52,
+      "reserve_count": 2,
       "ranking_method": "thematic relevance",
       "episodes": [
         {
@@ -5627,6 +5622,26 @@
         },
         {
           "rank": 16,
+          "record_id": "pb28469878",
+          "episode_number": 611,
+          "title": "PAPod 611 - Command–Adapt Paradox: Rethinking Safety for a Riskier World - David Woods - PART TWO",
+          "published_utc": "2026-08-15T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/command%e2%80%93adapt-paradox-rethinking-safety-for-a-riskier-world/",
+          "media_url": "https://mcdn.podbean.com/mf/web/vpu6s82wvz9umz3s/PAPod_611_-_David_Woods_Aug_26_PART_TWO8mfyg-gx7pur-Optimized.mp3",
+          "relevance_score": 9,
+          "confidence": "high",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "adaptive_capacity"
+          ],
+          "evidence": "The description names 'the Command-Adapt Paradox, the fluency law, the law of stretch systems, and the novelty inequality' and argues 'plans must be paired with guided adaptability' so programs 'scale and adapt in an increasingly complex world'. Adaptive capacity in complex systems is the central subject, stated plainly.",
+          "is_republication": false
+        },
+        {
+          "rank": 17,
           "record_id": "pb27183912",
           "episode_number": 576,
           "title": "PAPod 576 - From Continuous Improvement to Continuous Capacity: 10 Operational Indicators You Need",
@@ -5646,7 +5661,7 @@
           "is_republication": false
         },
         {
-          "rank": 17,
+          "rank": 18,
           "record_id": "pb27937143",
           "episode_number": 596,
           "title": "PAPod 596 - Incremental Safety Practices: Reductive vs. Inductive Safety",
@@ -5666,7 +5681,7 @@
           "is_republication": false
         },
         {
-          "rank": 18,
+          "rank": 19,
           "record_id": "pb5891236",
           "episode_number": 44,
           "title": "PAPod 44 - Jim Barker, Organizational Complexity, Returns!!!",
@@ -5686,7 +5701,7 @@
           "is_republication": false
         },
         {
-          "rank": 19,
+          "rank": 20,
           "record_id": "pb14235400",
           "episode_number": 271,
           "title": "PAPod 271 - Professor David Woods on the Concept of Bouncing Forward...What's Next in the Time of the Corona Virus for Our Organizations",
@@ -5706,7 +5721,7 @@
           "is_republication": false
         },
         {
-          "rank": 20,
+          "rank": 21,
           "record_id": "pb14169116",
           "episode_number": 269,
           "title": "PAPod 269 - David Woods, Resilience and Graceful Extensibility in the Time of Corona",
@@ -5726,7 +5741,7 @@
           "is_republication": false
         },
         {
-          "rank": 21,
+          "rank": 22,
           "record_id": "pb14326869",
           "episode_number": null,
           "title": "Corona Virus:  When Your Process Lacks Capacity...Workers Create Capacity - Adaptive Emergence",
@@ -5746,7 +5761,7 @@
           "is_republication": false
         },
         {
-          "rank": 22,
+          "rank": 23,
           "record_id": "pb5739349",
           "episode_number": 31,
           "title": "PAPod 31 - John Sauer - Toilet Talk -Another world talks about Systems Thinking",
@@ -5766,7 +5781,7 @@
           "is_republication": false
         },
         {
-          "rank": 23,
+          "rank": 24,
           "record_id": "pb24737610",
           "episode_number": 528,
           "title": "PAPod 528 - Embracing Uncertainty: Navigating Change in Today's World",
@@ -5786,7 +5801,7 @@
           "is_republication": false
         },
         {
-          "rank": 24,
+          "rank": 25,
           "record_id": "pb26933422",
           "episode_number": 571,
           "title": "PAPod 571 - Fail Fast, Learn Faster: A Conversation on Human Performance and Recovery",
@@ -5806,7 +5821,7 @@
           "is_republication": false
         },
         {
-          "rank": 25,
+          "rank": 26,
           "record_id": "pb27880445",
           "episode_number": 593,
           "title": "PAPod 593 - Young Voices, System Thinking: A Conversation on Safety with Mousa Yassin",
@@ -5826,7 +5841,7 @@
           "is_republication": false
         },
         {
-          "rank": 26,
+          "rank": 27,
           "record_id": "pb5845155",
           "episode_number": null,
           "title": "Safety Moment - Transparency is the solution for complexity",
@@ -5846,7 +5861,7 @@
           "is_republication": false
         },
         {
-          "rank": 27,
+          "rank": 28,
           "record_id": "pb6464287",
           "episode_number": null,
           "title": "Safety Moment - Recovery Resilience - Part Three of Three",
@@ -5866,7 +5881,7 @@
           "is_republication": false
         },
         {
-          "rank": 28,
+          "rank": 29,
           "record_id": "pb14403931",
           "episode_number": null,
           "title": "Corona Virus:  Hinge Events and Bouncing Forward - Two Terms With High Usefulness",
@@ -5886,7 +5901,7 @@
           "is_republication": false
         },
         {
-          "rank": 29,
+          "rank": 30,
           "record_id": "pb14100324",
           "episode_number": 267,
           "title": "PAPod 267 - Sidney Dekker Talks with Todd about Corona Virus, Fear, and Adaptive Capacity",
@@ -5906,7 +5921,7 @@
           "is_republication": false
         },
         {
-          "rank": 30,
+          "rank": 31,
           "record_id": "pb15286987",
           "episode_number": 302,
           "title": "PAPod 302 - Bouncing Forward - A discussion on Robustness and Resilience...You Must Have Both!",
@@ -5926,7 +5941,7 @@
           "is_republication": false
         },
         {
-          "rank": 31,
+          "rank": 32,
           "record_id": "pb14056239",
           "episode_number": 266,
           "title": "PAPod 266 - V U C A - Martha Acosta on COVID 19",
@@ -5946,7 +5961,7 @@
           "is_republication": false
         },
         {
-          "rank": 32,
+          "rank": 33,
           "record_id": "pb19694760",
           "episode_number": null,
           "title": "Safety Moment - Simplification Sounds Good, But Not In A Complex System",
@@ -5966,7 +5981,7 @@
           "is_republication": false
         },
         {
-          "rank": 33,
+          "rank": 34,
           "record_id": "pb17874480",
           "episode_number": null,
           "title": "Safety  Moment - A Complex System Will Outfox You Every Time",
@@ -5986,7 +6001,7 @@
           "is_republication": false
         },
         {
-          "rank": 34,
+          "rank": 35,
           "record_id": "pb22997995",
           "episode_number": 497,
           "title": "PAPod 497 - What Do We Do Next?  A Conversation about Change",
@@ -6006,7 +6021,7 @@
           "is_republication": false
         },
         {
-          "rank": 35,
+          "rank": 36,
           "record_id": "pb25368594",
           "episode_number": 536,
           "title": "PAPod 536 - Challenging the \"Move Fast and Break Things\" Mantra",
@@ -6026,7 +6041,7 @@
           "is_republication": false
         },
         {
-          "rank": 36,
+          "rank": 37,
           "record_id": "pb28257500",
           "episode_number": 604,
           "title": "PAPod 604 - On the Edge: Risks, Resilience, and Red Bull’s Adventure Athlete",
@@ -6046,7 +6061,7 @@
           "is_republication": false
         },
         {
-          "rank": 37,
+          "rank": 38,
           "record_id": "pb28328674",
           "episode_number": 605,
           "title": "PAPod 605 - When a Meeting Becomes an Emergency: Restoring the Room",
@@ -6066,7 +6081,27 @@
           "is_republication": false
         },
         {
-          "rank": 38,
+          "rank": 39,
+          "record_id": "pb28469877",
+          "episode_number": 610,
+          "title": "PAPod 610 - Rock the Boat: Reimagining Safety Science with Dr. David Woods PART ONE",
+          "published_utc": "2026-08-08T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/rock-the-boat-reimagining-safety-science-with-dr-david-woods/",
+          "media_url": "https://mcdn.podbean.com/mf/web/4kzqcfa3pyn54kgm/PAPod_610_-_Woods_Aug_21_PART_ONE8yaqg-p9d56h-Optimized.mp3",
+          "relevance_score": 7,
+          "confidence": "high",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "operational_capacity"
+          ],
+          "evidence": "The stated thesis is 'a shift from one-off fixes to ongoing capacity for safe, effective, and viable organizations' and the topics include 'the rise of resilience thinking'. Capacity and resilience are substantial, but the episode is framed as a critique of the state of safety science rather than an analysis of system behavior.",
+          "is_republication": false
+        },
+        {
+          "rank": 40,
           "record_id": "pb14143364",
           "episode_number": 268,
           "title": "PAPod 268 - Bill Rigot Returns with His Thoughts On Crisis and Uncertainty",
@@ -6086,7 +6121,7 @@
           "is_republication": false
         },
         {
-          "rank": 39,
+          "rank": 41,
           "record_id": "pb14211272",
           "episode_number": 270,
           "title": "PAPod 270 - Corrie Pitzer on Safety, Resilience, and Covid 19",
@@ -6106,7 +6141,7 @@
           "is_republication": false
         },
         {
-          "rank": 40,
+          "rank": 42,
           "record_id": "pb15213922",
           "episode_number": 302,
           "title": "PAPod 302 - Healthcare Safety in the Time of Covid19 - Meet Dr. Stephen Jones - Yale New Haven Health System",
@@ -6126,7 +6161,7 @@
           "is_republication": false
         },
         {
-          "rank": 41,
+          "rank": 43,
           "record_id": "pb14873927",
           "episode_number": null,
           "title": "Corona Virus: A Nation in Paradox - Opening Schools in the Time of Covid19",
@@ -6146,7 +6181,7 @@
           "is_republication": false
         },
         {
-          "rank": 42,
+          "rank": 44,
           "record_id": "pb26620781",
           "episode_number": 563,
           "title": "PAPood 563 - Human Performance, Not Human Error — Todd Conklin on Reframing Safety",
@@ -6166,7 +6201,7 @@
           "is_republication": false
         },
         {
-          "rank": 43,
+          "rank": 45,
           "record_id": "pb6632846",
           "episode_number": null,
           "title": "Safety Moment - A Better Definition of Risk",
@@ -6186,7 +6221,7 @@
           "is_republication": false
         },
         {
-          "rank": 44,
+          "rank": 46,
           "record_id": "pb7309758",
           "episode_number": 140,
           "title": "PAPod 140- Two Tragic Stories about Controls, Resilience, and Recovery - The Great Bill Rigot",
@@ -6206,7 +6241,7 @@
           "is_republication": false
         },
         {
-          "rank": 45,
+          "rank": 47,
           "record_id": "pb26620784",
           "episode_number": 565,
           "title": "PAPod 565 - Fear, FOMO & Fixing Safety: A Conversation with Brent Sutton",
@@ -6226,7 +6261,7 @@
           "is_republication": false
         },
         {
-          "rank": 46,
+          "rank": 48,
           "record_id": "pb27457982",
           "episode_number": 583,
           "title": "PAPod 583 - When Normal Variability Breaks: The ReDonda Story",
@@ -6246,7 +6281,7 @@
           "is_republication": false
         },
         {
-          "rank": 47,
+          "rank": 49,
           "record_id": "pb26049580",
           "episode_number": 550,
           "title": "PAPod 550 - Bent but Not Broken: Navigating The Nexus Between Social and Organizational Resilience",
@@ -6266,7 +6301,7 @@
           "is_republication": false
         },
         {
-          "rank": 48,
+          "rank": 50,
           "record_id": "pb27653020",
           "episode_number": 588,
           "title": "PAPod 588 - Weak Signals, Big Consequences: The RaDonda Story",
@@ -6284,46 +6319,6 @@
           ],
           "evidence": "Interacting performance variability and resilience across complex systems are directly supported, although the episode primarily promotes a restorative workshop and event learning.",
           "is_republication": false
-        },
-        {
-          "rank": 49,
-          "record_id": "pb25013847",
-          "episode_number": 532,
-          "title": "PAPod 532 - Lessons from Leadership with Doug Parker and Jim Frederick",
-          "published_utc": "2025-02-01T18:00:00+00:00",
-          "content_type": "numbered_papod",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/inside-osha-lessons-from-leadership-with-doug-parker-and-jim-frederick/",
-          "media_url": "https://mcdn.podbean.com/mf/web/3c8n6p7uuxqiuf66/PAPod_XXX_-_Final_Osha_Guys_Interview_Part_One655q7-hxxkkr-Optimized.mp3",
-          "relevance_score": 5,
-          "confidence": "high",
-          "qualifying": false,
-          "exception_inclusion": true,
-          "exception_status": "explicitly_authorized_project_exception",
-          "subordinate_concepts": [
-            "pandemic_response"
-          ],
-          "evidence": "The description addresses how the COVID-19 pandemic reshaped OSHA operations and required adaptation to uncertainty, but leadership, governance, enforcement, and compliance dominate.",
-          "is_republication": false
-        },
-        {
-          "rank": 50,
-          "record_id": "pb5765487",
-          "episode_number": 32,
-          "title": "PAPod 32 - Fatalities and Serious Events:  A New View - Jim Howe",
-          "published_utc": "2015-08-22T17:50:00+00:00",
-          "content_type": "numbered_papod",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/papod-32-fatalities-and-serious-events-a-new-view-jim-howe/",
-          "media_url": "https://mcdn.podbean.com/mf/web/xz64uj/PAPod32-JimHowe.mp3",
-          "relevance_score": 5,
-          "confidence": "medium",
-          "qualifying": false,
-          "exception_inclusion": true,
-          "exception_status": "explicitly_authorized_project_exception",
-          "subordinate_concepts": [
-            "systems_thinking"
-          ],
-          "evidence": "Systems thinking and the framing of serious events as operational failures are meaningful, but fatalities, event distinctions, prevention assumptions, and management response are primary.",
-          "is_republication": false
         }
       ]
     },
@@ -6334,11 +6329,11 @@
       "folder": "07_risk_controls_operational_assurance",
       "taxonomy_version": "1.0",
       "ranking_status": "final",
-      "finalized_at_utc": "2026-08-01T21:24:01.854394+00:00",
-      "candidate_count": 54,
+      "finalized_at_utc": "2026-10-24T13:09:44.859108+00:00",
+      "candidate_count": 55,
       "published_rank_count": 50,
-      "full_ranked_pool_count": 54,
-      "reserve_count": 4,
+      "full_ranked_pool_count": 55,
+      "reserve_count": 5,
       "ranking_method": "thematic relevance",
       "episodes": [
         {
@@ -7023,6 +7018,26 @@
         },
         {
           "rank": 35,
+          "record_id": "pb28659775",
+          "episode_number": 616,
+          "title": "PAPod 616 - OSHA’s New Playbook: From Enforcement to Partnership",
+          "published_utc": "2026-09-19T18:00:00+00:00",
+          "content_type": "numbered_papod",
+          "permalink": "https://preaccidentpodcast.podbean.com/e/osha-s-new-playbook-from-enforcement-to-partnership/",
+          "media_url": "https://mcdn.podbean.com/mf/web/c722789vr67i3p9w/PAPod_616_-_David_L_Keelingbsesx-ap63ek-Optimized.mp3",
+          "relevance_score": 7,
+          "confidence": "medium",
+          "qualifying": true,
+          "exception_inclusion": false,
+          "exception_status": null,
+          "subordinate_concepts": [
+            "operational_assurance"
+          ],
+          "evidence": "The description centers assurance and control programs: 'refreshing VPP', 'focusing on serious injuries and fatalities (SIF)', 'predictive analytics', and 'incentives to drive abatement', within a shift from enforcement to partnership. Several control and measurement hooks are present, each briefly.",
+          "is_republication": false
+        },
+        {
+          "rank": 36,
           "record_id": "pb6002446",
           "episode_number": null,
           "title": "Safety Moment - Manny Albert - This Is Why?",
@@ -7042,7 +7057,7 @@
           "is_republication": false
         },
         {
-          "rank": 36,
+          "rank": 37,
           "record_id": "pb23752761",
           "episode_number": 511,
           "title": "PAPod 511 - The Fox and the Hedgehog: Unraveling Risk Perception",
@@ -7062,7 +7077,7 @@
           "is_republication": false
         },
         {
-          "rank": 37,
+          "rank": 38,
           "record_id": "pb27359071",
           "episode_number": 580,
           "title": "PAPod 580 - Start Right, End Safe: Building Better Encounters in 2026",
@@ -7082,7 +7097,7 @@
           "is_republication": false
         },
         {
-          "rank": 38,
+          "rank": 39,
           "record_id": "pb9115874",
           "episode_number": null,
           "title": "Safety Moment - Risk Is Fluid",
@@ -7102,7 +7117,7 @@
           "is_republication": false
         },
         {
-          "rank": 39,
+          "rank": 40,
           "record_id": "pb9415863",
           "episode_number": 171,
           "title": "PAPod 171 - TESLA Safety and Lagging Indicators - Let's Hear From Laurie Shelby - Global VP for Health and Safety",
@@ -7122,7 +7137,7 @@
           "is_republication": false
         },
         {
-          "rank": 40,
+          "rank": 41,
           "record_id": "pb6464256",
           "episode_number": null,
           "title": "Safety Moment - Hazards are Fluid - Those Babies Move!",
@@ -7142,7 +7157,7 @@
           "is_republication": false
         },
         {
-          "rank": 41,
+          "rank": 42,
           "record_id": "pb5523786",
           "episode_number": null,
           "title": "Safety Moment - The Problem with Plans",
@@ -7162,7 +7177,7 @@
           "is_republication": false
         },
         {
-          "rank": 42,
+          "rank": 43,
           "record_id": "pb9716187",
           "episode_number": 182,
           "title": "PAPod 182 - Essential Controls and Fatalities - A beginner's discussion",
@@ -7182,7 +7197,7 @@
           "is_republication": false
         },
         {
-          "rank": 43,
+          "rank": 44,
           "record_id": "pb10348734",
           "episode_number": 198,
           "title": "PAPod 198 - Back By Popular Demand - Steve Scott and Critical Controls -  Don't Miss This Again!",
@@ -7202,7 +7217,7 @@
           "is_republication": false
         },
         {
-          "rank": 44,
+          "rank": 45,
           "record_id": "pb18573381",
           "episode_number": 380,
           "title": "PAPod 380 - Is This The Beginning Of The End of TRIR?",
@@ -7222,7 +7237,7 @@
           "is_republication": false
         },
         {
-          "rank": 45,
+          "rank": 46,
           "record_id": "pb14249748",
           "episode_number": 272,
           "title": "PAPod 272 - When Life Saving Rules become Life Threatening Hazards - Nippin Anand talks about his most popular social media post, ever!",
@@ -7242,7 +7257,7 @@
           "is_republication": false
         },
         {
-          "rank": 46,
+          "rank": 47,
           "record_id": "pb22174646",
           "episode_number": null,
           "title": "Safety Moment - Rules are Just Administrative Controls",
@@ -7262,7 +7277,7 @@
           "is_republication": false
         },
         {
-          "rank": 47,
+          "rank": 48,
           "record_id": "pb11491800",
           "episode_number": null,
           "title": "Safety Moment - Pre-Job Planning Builds CAPACITY!!!",
@@ -7282,7 +7297,7 @@
           "is_republication": false
         },
         {
-          "rank": 48,
+          "rank": 49,
           "record_id": "pb19393746",
           "episode_number": null,
           "title": "Safety Moment - Why STOP WORK may be the wrong thing to emphasize",
@@ -7302,7 +7317,7 @@
           "is_republication": false
         },
         {
-          "rank": 49,
+          "rank": 50,
           "record_id": "pb17073980",
           "episode_number": null,
           "title": "Safety Moment - Procedures don't control worker behavior... but worker behavior drives procedural use.",
@@ -7319,26 +7334,6 @@
             "procedures"
           ],
           "evidence": "The title identifies a specific relationship between worker behavior and procedural use, but the description is entirely boilerplate.",
-          "is_republication": false
-        },
-        {
-          "rank": 50,
-          "record_id": "pb21351572",
-          "episode_number": null,
-          "title": "Safety Moment - Procedures are Not Smart Enough to Know Where They Will Fail",
-          "published_utc": "2023-08-02T18:00:00+00:00",
-          "content_type": "safety_moment",
-          "permalink": "https://preaccidentpodcast.podbean.com/e/safety-moment-procedures-are-not-smart-enough-to-know-where-they-will-fail/",
-          "media_url": "https://mcdn.podbean.com/mf/web/5qnh76/Safety_Moment_-_Procedures_are_Not_Smart_Enough_to_Know_Where_They_Will_Fail78qge.mp3",
-          "relevance_score": 7,
-          "confidence": "medium",
-          "qualifying": null,
-          "exception_inclusion": null,
-          "exception_status": null,
-          "subordinate_concepts": [
-            "procedures"
-          ],
-          "evidence": "The title presents a specific limitation of procedures, namely that they cannot identify where they will fail, but no substantive description supports further depth.",
           "is_republication": false
         }
       ]
