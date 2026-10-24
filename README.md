@@ -207,7 +207,7 @@ Each inserted record carries the update run and approval in the underlying final
 
 | Update | Collection | New records reviewed | Placements | Entered the published lists | Moved to reserve |
 | --- | --- | ---: | ---: | --- | --- |
-| October 2026 | 2026-10-24 | 12 (PAPod 609–620) | 13 | PAPod 610, 611, 612, 614, 615, 616, 617, 620 | 9 earlier records, none removed from the underlying data |
+| October 2026 | 2026-10-24 | 12 (PAPod 609–620) | 13 | PAPod 610, 611, 612, 614, 615, 616, 617, 620 | 11 theme positions; 9 earlier episodes no longer appear in any published list. None removed from the underlying data |
 
 PAPod 619 and 613 qualified in Human Performance, Error, and Accountability but placed in reserve (ranks 59 and 61). PAPod 609 and 618 did not qualify for any theme from their published metadata.
 
