@@ -342,7 +342,17 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/exploring-the-future-of-osha-with-doug-parker-and-jim-frederick/
    - Media URL: https://mcdn.podbean.com/mf/web/xc448kwp2z5mic3a/PAPod_XXX_-_Part_Two_Osha_Guys721hp-88bvx7-Optimized.mp3
 
-35. **Safety Moment - Manny Albert - This Is Why?**
+35. **PAPod 616 - OSHA’s New Playbook: From Enforcement to Partnership**
+   - Episode 616
+   - Record ID: `pb28659775`
+   - Relevance: 7/10
+   - Confidence: medium
+   - Subordinate concepts: operational_assurance
+   - Evidence: The description centers assurance and control programs: 'refreshing VPP', 'focusing on serious injuries and fatalities (SIF)', 'predictive analytics', and 'incentives to drive abatement', within a shift from enforcement to partnership. Several control and measurement hooks are present, each briefly.
+   - Permalink: https://preaccidentpodcast.podbean.com/e/osha-s-new-playbook-from-enforcement-to-partnership/
+   - Media URL: https://mcdn.podbean.com/mf/web/c722789vr67i3p9w/PAPod_616_-_David_L_Keelingbsesx-ap63ek-Optimized.mp3
+
+36. **Safety Moment - Manny Albert - This Is Why?**
    - safety_moment
    - Record ID: `pb6002446`
    - Relevance: 7/10
@@ -352,7 +362,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-manny-albert-this-is-why/
    - Media URL: https://mcdn.podbean.com/mf/web/fcsb5i/SafetyMoment-MannyAlbert-ThisIsWhy.mp3
 
-36. **PAPod 511 - The Fox and the Hedgehog: Unraveling Risk Perception**
+37. **PAPod 511 - The Fox and the Hedgehog: Unraveling Risk Perception**
    - Episode 511
    - Record ID: `pb23752761`
    - Relevance: 7/10
@@ -362,7 +372,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/the-fox-and-the-hedgehog-unraveling-risk-perception/
    - Media URL: https://mcdn.podbean.com/mf/web/nkm6wz4rfu9ergwe/PAPod_511_-_Foxes_and_Hedgehogs952oj-r8zzjp-AI-Generated.mp3
 
-37. **PAPod 580 - Start Right, End Safe: Building Better Encounters in 2026**
+38. **PAPod 580 - Start Right, End Safe: Building Better Encounters in 2026**
    - Episode 580
    - Record ID: `pb27359071`
    - Relevance: 7/10
@@ -372,7 +382,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/start-right-end-safe-building-better-encounters-in-2026/
    - Media URL: https://mcdn.podbean.com/mf/web/tsvbj6krcpxrd6f9/PAPod_XXX_-_La_Megra7t0qz-asevy7-Optimized.mp3
 
-38. **Safety Moment - Risk Is Fluid**
+39. **Safety Moment - Risk Is Fluid**
    - safety_moment
    - Record ID: `pb9115874`
    - Relevance: 7/10
@@ -382,7 +392,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-risk-is-fluid/
    - Media URL: https://mcdn.podbean.com/mf/web/745s9h/Safety_Moment_-_Risk_is_Fluid_.mp3
 
-39. **PAPod 171 - TESLA Safety and Lagging Indicators - Let's Hear From Laurie Shelby - Global VP for Health and Safety**
+40. **PAPod 171 - TESLA Safety and Lagging Indicators - Let's Hear From Laurie Shelby - Global VP for Health and Safety**
    - Episode 171
    - Record ID: `pb9415863`
    - Relevance: 7/10
@@ -392,7 +402,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-171-tesla-safety-and-lagging-indicators-lets-hear-from-laurie-shelby-global-vp-for-health-and-safety/
    - Media URL: https://mcdn.podbean.com/mf/web/tntd3r/PAPox_171_-_Laurie_Shelby_-_TESLA.mp3
 
-40. **Safety Moment - Hazards are Fluid - Those Babies Move!**
+41. **Safety Moment - Hazards are Fluid - Those Babies Move!**
    - safety_moment
    - Record ID: `pb6464256`
    - Relevance: 7/10
@@ -402,7 +412,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-hazards-are-fluid-those-babies-move/
    - Media URL: https://mcdn.podbean.com/mf/web/uf7df5/Safety_Moment_-_Hazards_are_Fluid_and_Mysterious_.mp3
 
-41. **Safety Moment - The Problem with Plans**
+42. **Safety Moment - The Problem with Plans**
    - safety_moment
    - Record ID: `pb5523786`
    - Relevance: 7/10
@@ -412,7 +422,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-the-problem-with-plans/
    - Media URL: https://mcdn.podbean.com/mf/web/2vf854/POPod-SafetyMoment-TheProblemwithPlans.mp3
 
-42. **PAPod 182 - Essential Controls and Fatalities - A beginner's discussion**
+43. **PAPod 182 - Essential Controls and Fatalities - A beginner's discussion**
    - Episode 182
    - Record ID: `pb9716187`
    - Relevance: 7/10
@@ -422,7 +432,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-182-essential-controls-and-fatalities-a-beginners-discussion/
    - Media URL: https://mcdn.podbean.com/mf/web/97vspf/PAPod_182_-_Essential_Controls-_A_Beginning_Discussion.mp3
 
-43. **PAPod 198 - Back By Popular Demand - Steve Scott and Critical Controls -  Don't Miss This Again!**
+44. **PAPod 198 - Back By Popular Demand - Steve Scott and Critical Controls -  Don't Miss This Again!**
    - Episode 198
    - Record ID: `pb10348734`
    - Relevance: 7/10
@@ -432,7 +442,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-198-back-by-popular-demand-steve-scott-and-critical-controls-dont-miss-this-again/
    - Media URL: https://mcdn.podbean.com/mf/web/cz37wx/PAPod_76_-_Steve_Scott_-_No_Sponsor.mp3
 
-44. **PAPod 380 - Is This The Beginning Of The End of TRIR?**
+45. **PAPod 380 - Is This The Beginning Of The End of TRIR?**
    - Episode 380
    - Record ID: `pb18573381`
    - Relevance: 7/10
@@ -442,7 +452,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-380-is-this-the-beginning-of-the-end-of-trir/
    - Media URL: https://mcdn.podbean.com/mf/web/7ndpkc/PAPod_380_-_Dr_Matt_202286lhv.mp3
 
-45. **PAPod 272 - When Life Saving Rules become Life Threatening Hazards - Nippin Anand talks about his most popular social media post, ever!**
+46. **PAPod 272 - When Life Saving Rules become Life Threatening Hazards - Nippin Anand talks about his most popular social media post, ever!**
    - Episode 272
    - Record ID: `pb14249748`
    - Relevance: 7/10
@@ -452,7 +462,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-272-when-life-saving-rules-become-life-threatening-hazards-nippin-anand-talks-about-his-most-popular-social-media-post-ever/
    - Media URL: https://mcdn.podbean.com/mf/web/yg6d5y/PAPod_272_-_Nippin_Anand_-_Life_Saving_Rules_or_Life_Threatening_Rules.mp3
 
-46. **Safety Moment - Rules are Just Administrative Controls**
+47. **Safety Moment - Rules are Just Administrative Controls**
    - safety_moment
    - Record ID: `pb22174646`
    - Relevance: 7/10
@@ -462,7 +472,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-rules-are-just-administrative-controls/
    - Media URL: https://mcdn.podbean.com/mf/web/qsfp93/Safety_Moment_-_Rules_are_Administrative_Controls6wnwt.mp3
 
-47. **Safety Moment - Pre-Job Planning Builds CAPACITY!!!**
+48. **Safety Moment - Pre-Job Planning Builds CAPACITY!!!**
    - safety_moment
    - Record ID: `pb11491800`
    - Relevance: 7/10
@@ -472,7 +482,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-pre-job-planning-builds-capacity/
    - Media URL: https://mcdn.podbean.com/mf/web/vk968p/safety_moment_-_The_Capacity_Building_Potential_of_Pre_Job_Briefing.mp3
 
-48. **Safety Moment - Why STOP WORK may be the wrong thing to emphasize**
+49. **Safety Moment - Why STOP WORK may be the wrong thing to emphasize**
    - safety_moment
    - Record ID: `pb19393746`
    - Relevance: 7/10
@@ -482,7 +492,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-why-stop-work-may-be-the-wrong-thing-to-emphasizel/
    - Media URL: https://mcdn.podbean.com/mf/web/yeftsw/Safety_Moment_-_Why_Stop_Work_May_Be_Badawfvc.mp3
 
-49. **Safety Moment - Procedures don't control worker behavior... but worker behavior drives procedural use.**
+50. **Safety Moment - Procedures don't control worker behavior... but worker behavior drives procedural use.**
    - safety_moment
    - Record ID: `pb17073980`
    - Relevance: 7/10
@@ -491,13 +501,3 @@
    - Evidence: The title identifies a specific relationship between worker behavior and procedural use, but the description is entirely boilerplate.
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-procedures-dont-control-worker-behavior-but-worker-behavior-drives-procedural-use/
    - Media URL: https://mcdn.podbean.com/mf/web/fiy76b/Safety_Moment_-_Procedures_don_t_drive_behavior_Context_does9gxke.mp3
-
-50. **Safety Moment - Procedures are Not Smart Enough to Know Where They Will Fail**
-   - safety_moment
-   - Record ID: `pb21351572`
-   - Relevance: 7/10
-   - Confidence: medium
-   - Subordinate concepts: procedures
-   - Evidence: The title presents a specific limitation of procedures, namely that they cannot identify where they will fail, but no substantive description supports further depth.
-   - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-procedures-are-not-smart-enough-to-know-where-they-will-fail/
-   - Media URL: https://mcdn.podbean.com/mf/web/5qnh76/Safety_Moment_-_Procedures_are_Not_Smart_Enough_to_Know_Where_They_Will_Fail78qge.mp3

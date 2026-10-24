@@ -412,7 +412,17 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-185-adrian-cockcroft-2018/
    - Media URL: https://mcdn.podbean.com/mf/web/7gjta9/PAPod_185_-_Adrian_Cockcroft_-_A_Dynamic_Non-Event.mp3
 
-42. **Safety Moment - What Failed in a Real Life Event**
+42. **PAPod 615 - Leaders First: Why Safety Starts at the Top**
+   - Episode 615
+   - Record ID: `pb28617480`
+   - Relevance: 7/10
+   - Confidence: medium
+   - Subordinate concepts: corrective_actions
+   - Evidence: Three of the listed topics concern investigation: 'how investigations should inform solutions rather than impose them', 'using judgments of need', and 'how DOE-style investigations differ from industry practices'. Investigation method and its link to solutions is a substantial subject alongside leadership.
+   - Permalink: https://preaccidentpodcast.podbean.com/e/leaders-first-why-safety-starts-at-the-top/
+   - Media URL: https://mcdn.podbean.com/mf/web/ugbgwtz2x5duvims/PAPod_XXX_-_Counter_Errorism_Podcast9yssj-dwv4pj-Optimized.mp3
+
+43. **Safety Moment - What Failed in a Real Life Event**
    - safety_moment
    - Record ID: `pb19555229`
    - Relevance: 7/10
@@ -422,7 +432,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-what-failed-in-a-real-life-event/
    - Media URL: https://mcdn.podbean.com/mf/web/kadc25/Safety_Moment_-_What_Failed_in_Real_Life94lsj.mp3
 
-43. **PAPod 368 - Comparisons and Contrasts When Looking At Event is Inevitable**
+44. **PAPod 368 - Comparisons and Contrasts When Looking At Event is Inevitable**
    - Episode 368
    - Record ID: `pb18127406`
    - Relevance: 7/10
@@ -432,7 +442,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-368-comparisons-and-contrasts-when-looking-at-event-is-inevitable/
    - Media URL: https://mcdn.podbean.com/mf/web/5jpk3v/PAPod_368_-_Houston_and_Santa_Fe_Comparison_and_Contrast8rgvi.mp3
 
-44. **PAPod 427 - A New Failure Learning Resource - VOID**
+45. **PAPod 427 - A New Failure Learning Resource - VOID**
    - Episode 427
    - Record ID: `pb20279400`
    - Relevance: 7/10
@@ -442,7 +452,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-427-a-new-failure-learning-resource-void/
    - Media URL: https://mcdn.podbean.com/mf/web/xeivqr/PAPod_427_-_VOID_-_A_Failure_Learning_Resource9go1j.mp3
 
-45. **Safety Moment - Near Misses Discussed**
+46. **Safety Moment - Near Misses Discussed**
    - safety_moment
    - Record ID: `pb20195672`
    - Relevance: 7/10
@@ -452,7 +462,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-near-misses-discussed/
    - Media URL: https://mcdn.podbean.com/mf/web/r33knq/Safety_Moment_-_Simular_Missesbe1lj.mp3
 
-46. **Sorry about the first one!...PAPod 166 - Third Try…How do you think about failure? Scott Shappell tells us more**
+47. **Sorry about the first one!...PAPod 166 - Third Try…How do you think about failure? Scott Shappell tells us more**
    - Episode 166
    - Record ID: `pb9302432`
    - Relevance: 7/10
@@ -462,7 +472,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/sorry-about-the-first-onepapod-166-third-try%e2%80%a6how-do-you-think-about-failure-scott-shappell-tells-us-more/
    - Media URL: https://mcdn.podbean.com/mf/web/d7vxiv/Resend_Podcast_-_PAPod166_-_Take_Three.mp3
 
-47. **PAPod 363 -A SIF Event on the Set of the Production of the Movie RUST**
+48. **PAPod 363 -A SIF Event on the Set of the Production of the Movie RUST**
    - Episode 363
    - Record ID: `pb17926648`
    - Relevance: 7/10
@@ -472,7 +482,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-363-a-sif-event-on-the-set-of-the-production-of-the-movie-rust/
    - Media URL: https://mcdn.podbean.com/mf/web/ptcxvc/PAPod_363_-_A_SIF_Event_on_the_Set_of_the_Movie_RUST6zq8i.mp3
 
-48. **Safety Moment - Exploring Disappointing Outcomes**
+49. **Safety Moment - Exploring Disappointing Outcomes**
    - safety_moment
    - Record ID: `pb17955354`
    - Relevance: 7/10
@@ -482,7 +492,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-exploring-disappointing-outcomes/
    - Media URL: https://mcdn.podbean.com/mf/web/6rbmb9/Safety_Moment_-_Explore_Disappointing_Outcomes8rk8f.mp3
 
-49. **PAPod 486 - One More Discussion of Fatal Events - and this is just for us.**
+50. **PAPod 486 - One More Discussion of Fatal Events - and this is just for us.**
    - Episode 486
    - Record ID: `pb22420305`
    - Relevance: 7/10
@@ -491,13 +501,3 @@
    - Evidence: The title identifies a discussion of fatal events, but the description offers no record-specific analytical evidence.
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-486-one-more-discussion-of-fatal-events-and-this-is-just-for-us/
    - Media URL: https://mcdn.podbean.com/mf/web/n7vzex/PAPod_486_-_One_More_Discussion_on_Fatal_Events_-_This_one_is_just_for_usbwkpi.mp3
-
-50. **PAPod 259 - A Podcast Given To The Ages - Professor Drew Rae on "Disastercast"**
-   - Episode 259
-   - Record ID: `pb13714641`
-   - Relevance: 7/10
-   - Confidence: low
-   - Subordinate concepts: accident_investigation, incident_investigation, lessons_learned
-   - Evidence: The title connects the episode to Disastercast, but boilerplate provides no specific evidence about investigation or lessons discussed.
-   - Permalink: https://preaccidentpodcast.podbean.com/e/papod-259-a-podcast-given-to-the-ages-professor-drew-rae-on-disaster-cast/
-   - Media URL: https://mcdn.podbean.com/mf/web/9udbc8/PAPod_259_-_Drew_Rae_on_Podcasting_Life_and_the_Acadamy.mp3

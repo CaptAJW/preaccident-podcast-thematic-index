@@ -272,7 +272,17 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/workers-are-the-solution-a-conversation-with-corey-pitzer/
    - Media URL: https://mcdn.podbean.com/mf/web/hb68yv98ub287srp/PAPod_XXX_-_Corrie_PItzer_and_Safety_Next9kdgf-gjijc9-Optimized.mp3
 
-28. **PAPod 42 - Safety Differently - Daniel Hummerdal**
+28. **PAPod 614 - Accountability Labs: Learning to Have Each Other’s Back**
+   - Episode 614
+   - Record ID: `pb28617477`
+   - Relevance: 9/10
+   - Confidence: high
+   - Subordinate concepts: accountability
+   - Evidence: Accountability is the title subject and the description defines the labs as practice in 'having each other's back instead of weaponizing blame', closing on 'turning accountability into a sustained, constructive practice'. Reframing accountability away from blame is the episode's central subject, stated plainly.
+   - Permalink: https://preaccidentpodcast.podbean.com/e/accountability-labs-learning-to-have-each-other-s-back/
+   - Media URL: https://mcdn.podbean.com/mf/web/98g3c8qim8eh5enj/PAPod_XXX_-_Jen_Long_Accountability_Labs90syn-4mgz9h-Optimized.mp3
+
+29. **PAPod 42 - Safety Differently - Daniel Hummerdal**
    - Episode 42
    - Record ID: `pb5849505`
    - Relevance: 8/10
@@ -282,7 +292,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-42-safety-differently-daniel-hummerdal/
    - Media URL: https://mcdn.podbean.com/mf/web/cf9ehm/PAPod42-DanielHummerdal.mp3
 
-29. **PAPod 13 - An Engineer, Human Performance, and Life**
+30. **PAPod 13 - An Engineer, Human Performance, and Life**
    - Episode 13
    - Record ID: `pb5584000`
    - Relevance: 8/10
@@ -292,7 +302,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-13-an-engineer-human-performance-and-life/
    - Media URL: https://mcdn.podbean.com/mf/web/4gzj7v/PAPod13-BillRigot.mp3
 
-30. **PAPod 33 - Rob Fisher Talks About The Future of Human Performance**
+31. **PAPod 33 - Rob Fisher Talks About The Future of Human Performance**
    - Episode 33
    - Record ID: `pb5765514`
    - Relevance: 8/10
@@ -302,7 +312,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-33-rob-fisher-talks-about-the-future-of-human-performance/
    - Media URL: https://mcdn.podbean.com/mf/web/745ufq/PAPod33-RobFisher.mp3
 
-31. **PAPod 60 - Safety Professionals and The Shift to the New View**
+32. **PAPod 60 - Safety Professionals and The Shift to the New View**
    - Episode 60
    - Record ID: `pb6097679`
    - Relevance: 8/10
@@ -312,7 +322,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-60-safety-professionals-and-the-shift-to-the-new-view/
    - Media URL: https://mcdn.podbean.com/mf/web/8a8xpp/PAPod60-MarcieFrazier-UAWHS.mp3
 
-32. **PAPod 570 - Safety Differently Down Under: Todd Conklin in Auckland**
+33. **PAPod 570 - Safety Differently Down Under: Todd Conklin in Auckland**
    - Episode 570
    - Record ID: `pb26857534`
    - Relevance: 8/10
@@ -322,7 +332,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-differently-down-under-todd-conklin-in-auckland/
    - Media URL: https://mcdn.podbean.com/mf/web/7h8657g7znik2qyg/PAPod_570_-_BSDBCazf2d-4xtu34-Optimized.mp3
 
-33. **PAPod 520 - Navigating Leadership: From Accountability to Responsibility**
+34. **PAPod 520 - Navigating Leadership: From Accountability to Responsibility**
    - Episode 520
    - Record ID: `pb24231276`
    - Relevance: 8/10
@@ -332,7 +342,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/navigating-leadership-from-accountability-to-responsibility/
    - Media URL: https://mcdn.podbean.com/mf/web/bykhe4shnzqczwgf/PAPod_520_-_Mark_Homeyer_on_the_relationship_between_accountability_and_expectation78hki-ywa8mx-Optimized.mp3
 
-34. **PAPod 196 - Some Comments on the Recent HOP vs. BBS Article in ASSP.**
+35. **PAPod 196 - Some Comments on the Recent HOP vs. BBS Article in ASSP.**
    - Episode 196
    - Record ID: `pb10268562`
    - Relevance: 8/10
@@ -342,7 +352,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-196-some-comments-on-the-recent-hop-vs-bbs-article-in-assp/
    - Media URL: https://mcdn.podbean.com/mf/web/46zbwj/PAPod_196_-BBS_vs_HOP.mp3
 
-35. **PAPod 56 - Diabolical Change - Nicole Barrett**
+36. **PAPod 56 - Diabolical Change - Nicole Barrett**
    - Episode 56
    - Record ID: `pb6031565`
    - Relevance: 8/10
@@ -352,7 +362,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-56-diabolical-change-nicole-barrett/
    - Media URL: https://mcdn.podbean.com/mf/web/ivqxdf/PAPod56-NicoleBarrett-DIabolicalChange-ULWHSSponsor.mp3
 
-36. **PAPod 27 - Safety Differently - A conversation with Corrie Pitzer**
+37. **PAPod 27 - Safety Differently - A conversation with Corrie Pitzer**
    - Episode 27
    - Record ID: `pb5730506`
    - Relevance: 8/10
@@ -362,7 +372,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-27-safety-differently-a-conversation-with-corrie-pitzer/
    - Media URL: https://mcdn.podbean.com/mf/web/e8bg23/PAPod27-CorriePitzer.mp3
 
-37. **PAPod 72 - Where LEAN and THE NEW VIEW intersect.  Catherine Warner**
+38. **PAPod 72 - Where LEAN and THE NEW VIEW intersect.  Catherine Warner**
    - Episode 72
    - Record ID: `pb6244760`
    - Relevance: 8/10
@@ -372,7 +382,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-72-where-lean-and-the-new-view-intersect-catherine-warner/
    - Media URL: https://mcdn.podbean.com/mf/web/qix6pc/PAPod_72_-_Catherine_Warner_-_Where_LEAN_and_New_Safety_Meet_-_ULWHS.mp3
 
-38. **PAPod 69 - The New View of Safety - Zach Woods and Mike Rayo**
+39. **PAPod 69 - The New View of Safety - Zach Woods and Mike Rayo**
    - Episode 69
    - Record ID: `pb6167613`
    - Relevance: 8/10
@@ -382,7 +392,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-69-the-new-view-of-safety-zach-woods-and-mike-rayo/
    - Media URL: https://mcdn.podbean.com/mf/web/fvqczk/PAPod_69_-_Zach_Woods_and_Mike_Rayo_-_ULWHS.mp3
 
-39. **PAPod 47 - Beyond Blame - Dave Zwieback**
+40. **PAPod 47 - Beyond Blame - Dave Zwieback**
    - Episode 47
    - Record ID: `pb5921353`
    - Relevance: 8/10
@@ -392,7 +402,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-47-beyond-blame-dave-zwieback/
    - Media URL: https://mcdn.podbean.com/mf/web/y4cgu5/PAPod47-DaveZwieback.mp3
 
-40. **Safety Moment - The Changing Way We View Workers**
+41. **Safety Moment - The Changing Way We View Workers**
    - safety_moment
    - Record ID: `pb5921362`
    - Relevance: 8/10
@@ -402,7 +412,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-the-changing-way-we-view-workers/
    - Media URL: https://mcdn.podbean.com/mf/web/he48qb/SafetyMoment-TheChangingWayWeViewWorkers.mp3
 
-41. **PAPod 215 - Friend of the Pod, Gareth Lock has an exciting new book!**
+42. **PAPod 215 - Friend of the Pod, Gareth Lock has an exciting new book!**
    - Episode 215
    - Record ID: `pb11054030`
    - Relevance: 8/10
@@ -412,7 +422,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-215-friend-of-the-pod-gareth-lock-has-an-exciting-new-book/
    - Media URL: https://mcdn.podbean.com/mf/web/gxkxe2/PAPod_215_-_Gareth_Lock_s_New_Book.mp3
 
-42. **PAPod 189 - Marc Yeston Struggles (out loud) with free will...**
+43. **PAPod 189 - Marc Yeston Struggles (out loud) with free will...**
    - Episode 189
    - Record ID: `pb9978511`
    - Relevance: 8/10
@@ -422,7 +432,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-189-marc-yeston-struggles-out-loud-with-free-will/
    - Media URL: https://mcdn.podbean.com/mf/web/4fcj5p/Marc_Y_3.mp3
 
-43. **PAPOd 560 - When Hospitals Criminalize Error: A Patient Safety Reckoning**
+44. **PAPOd 560 - When Hospitals Criminalize Error: A Patient Safety Reckoning**
    - Episode 560
    - Record ID: `pb26432426`
    - Relevance: 8/10
@@ -432,7 +442,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/when-hospitals-criminalize-error-a-patient-safety-reckoning/
    - Media URL: https://mcdn.podbean.com/mf/web/k2kt7swu77dbhy4s/PAPod_XXX_-_Lisa_Zegan_Patient_Safetybts1t-zi6bsz-Optimized.mp3
 
-44. **PAPod 593 - Young Voices, System Thinking: A Conversation on Safety with Mousa Yassin**
+45. **PAPod 593 - Young Voices, System Thinking: A Conversation on Safety with Mousa Yassin**
    - Episode 593
    - Record ID: `pb27880445`
    - Relevance: 8/10
@@ -442,7 +452,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/young-voices-system-thinking-a-conversation-on-safety-with-musa-yassin/
    - Media URL: https://mcdn.podbean.com/mf/web/7begtrvf2vrr9iqy/PAPod_XXX_-_Mousa_Yassin7b7uv-ewrqcg-Optimized.mp3
 
-45. **PAPod 562 - When 'I Forgot' Becomes Fatal: Preventing Children Left in Hot Cars**
+46. **PAPod 562 - When 'I Forgot' Becomes Fatal: Preventing Children Left in Hot Cars**
    - Episode 562
    - Record ID: `pb26483828`
    - Relevance: 8/10
@@ -452,7 +462,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/when-i-forgot-becomes-fatal-preventing-children-left-in-hot-cars/
    - Media URL: https://mcdn.podbean.com/mf/web/2c4svznv4akaq6sf/PAPod_XXX_-_Hot_Car_Child_Problem7rr0o-fts3bw-Optimized.mp3
 
-46. **PAPod 193 - Top Ten Reasons Leaders Push Back**
+47. **PAPod 193 - Top Ten Reasons Leaders Push Back**
    - Episode 193
    - Record ID: `pb10055965`
    - Relevance: 8/10
@@ -462,7 +472,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-193-top-ten-reasons-leaders-push-back/
    - Media URL: https://mcdn.podbean.com/mf/web/t5vfe6/PAPod_-_193_-_Top_Ten_Reasons_Leaders_Push_Back.mp3
 
-47. **Safety Moment - If it is emotionally satisfying - Do the opposite**
+48. **Safety Moment - If it is emotionally satisfying - Do the opposite**
    - safety_moment
    - Record ID: `pb6595209`
    - Relevance: 8/10
@@ -472,7 +482,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-if-it-is-emotionally-satisfying-do-the-opposite/
    - Media URL: https://mcdn.podbean.com/mf/web/vqe2k4/Safety_Moment_-_If_it_is_Emotionally_Satisfying_Do_the_Opposite.mp3
 
-48. **Safety Moment - The Power of Context: Free Will vs. Predeterminism in Workplace Safety**
+49. **Safety Moment - The Power of Context: Free Will vs. Predeterminism in Workplace Safety**
    - safety_moment
    - Record ID: `pb23514222`
    - Relevance: 8/10
@@ -482,7 +492,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/the-power-of-context-free-will-vs-predeterminism-in-workplace-safety/
    - Media URL: https://mcdn.podbean.com/mf/web/u3cckw36n9dncnpp/Safety_Moment_-_Organization_Context_Influences_Choice6pgae-AI-Generated.mp3
 
-49. **Safety Moment - Principle Number 1 - Mistakes are normal**
+50. **Safety Moment - Principle Number 1 - Mistakes are normal**
    - safety_moment
    - Record ID: `pb9460564`
    - Relevance: 8/10
@@ -491,13 +501,3 @@
    - Evidence: The title states that mistakes are normal, and the description identifies this as the first principle of Human Performance Improvement and New Safety thinking.
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-principle-number-1-mistakes-are-normal/
    - Media URL: https://mcdn.podbean.com/mf/web/p2gjcf/Safety_Moment_-_Mistakes_are_Normal.mp3
-
-50. **Safety Moment - Principle Number 2 - Blame Fixes Nothing**
-   - safety_moment
-   - Record ID: `pb9460568`
-   - Relevance: 8/10
-   - Confidence: high
-   - Subordinate concepts: blame, human_performance, human_error, context_of_behavior
-   - Evidence: The title states that blame fixes nothing, and the description places that claim alongside normal error, context-driven behavior, learning, and managerial response.
-   - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-principle-number-2-blame-fixes-nothing/
-   - Media URL: https://mcdn.podbean.com/mf/web/44nn28/Safety_Moment_-_Blame_fixes_nothing.mp3

@@ -152,7 +152,17 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/failing-safely-todd-conklin-on-resilience-recovery-and-real-work/
    - Media URL: https://mcdn.podbean.com/mf/web/qrvpp8xrmz6d683p/PAPod_XXX_-_Amir_Shahzadb7sx5-7sx4w4-Optimized.mp3
 
-16. **PAPod 576 - From Continuous Improvement to Continuous Capacity: 10 Operational Indicators You Need**
+16. **PAPod 611 - Command–Adapt Paradox: Rethinking Safety for a Riskier World - David Woods - PART TWO**
+   - Episode 611
+   - Record ID: `pb28469878`
+   - Relevance: 9/10
+   - Confidence: high
+   - Subordinate concepts: adaptive_capacity
+   - Evidence: The description names 'the Command-Adapt Paradox, the fluency law, the law of stretch systems, and the novelty inequality' and argues 'plans must be paired with guided adaptability' so programs 'scale and adapt in an increasingly complex world'. Adaptive capacity in complex systems is the central subject, stated plainly.
+   - Permalink: https://preaccidentpodcast.podbean.com/e/command%e2%80%93adapt-paradox-rethinking-safety-for-a-riskier-world/
+   - Media URL: https://mcdn.podbean.com/mf/web/vpu6s82wvz9umz3s/PAPod_611_-_David_Woods_Aug_26_PART_TWO8mfyg-gx7pur-Optimized.mp3
+
+17. **PAPod 576 - From Continuous Improvement to Continuous Capacity: 10 Operational Indicators You Need**
    - Episode 576
    - Record ID: `pb27183912`
    - Relevance: 8/10
@@ -162,7 +172,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/from-continuous-improvement-to-continuous-capacity-10-operational-indicators-you-need/
    - Media URL: https://mcdn.podbean.com/mf/web/x9jbqikzg9vx5mry/PAPod_576_-_Continuous_Capacity6gefy-erjadr-Optimized.mp3
 
-17. **PAPod 596 - Incremental Safety Practices: Reductive vs. Inductive Safety**
+18. **PAPod 596 - Incremental Safety Practices: Reductive vs. Inductive Safety**
    - Episode 596
    - Record ID: `pb27937143`
    - Relevance: 9/10
@@ -172,7 +182,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/incremental-safety-practices-reductive-vs-inductive-safety/
    - Media URL: https://mcdn.podbean.com/mf/web/6c7pxvf53rye9wum/PAPod_XXX_-_Reductive_Inductive_Safety8ysqh-tg7g48-Optimized.mp3
 
-18. **PAPod 44 - Jim Barker, Organizational Complexity, Returns!!!**
+19. **PAPod 44 - Jim Barker, Organizational Complexity, Returns!!!**
    - Episode 44
    - Record ID: `pb5891236`
    - Relevance: 9/10
@@ -182,7 +192,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-44-jim-barker-organizational-complexity-returns/
    - Media URL: https://mcdn.podbean.com/mf/web/iqry69/PAPod44-JimBarker2.mp3
 
-19. **PAPod 271 - Professor David Woods on the Concept of Bouncing Forward...What's Next in the Time of the Corona Virus for Our Organizations**
+20. **PAPod 271 - Professor David Woods on the Concept of Bouncing Forward...What's Next in the Time of the Corona Virus for Our Organizations**
    - Episode 271
    - Record ID: `pb14235400`
    - Relevance: 9/10
@@ -192,7 +202,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-271-professor-david-woods-on-the-concept-of-bouncing-forwardwhats-next-in-the-time-of-the-corona-virus-for-our-organizations/
    - Media URL: https://mcdn.podbean.com/mf/web/eey87q/PAPod_271_-_Woods_April_14.mp3
 
-20. **PAPod 269 - David Woods, Resilience and Graceful Extensibility in the Time of Corona**
+21. **PAPod 269 - David Woods, Resilience and Graceful Extensibility in the Time of Corona**
    - Episode 269
    - Record ID: `pb14169116`
    - Relevance: 9/10
@@ -202,7 +212,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-269-david-woods-resilience-and-graceful-extensibility-in-the-time-of-corona/
    - Media URL: https://mcdn.podbean.com/mf/web/idahe7/PAPod_269_-_David_Woods_Resilliance_and_Graceful_Exstensability.mp3
 
-21. **Corona Virus:  When Your Process Lacks Capacity...Workers Create Capacity - Adaptive Emergence**
+22. **Corona Virus:  When Your Process Lacks Capacity...Workers Create Capacity - Adaptive Emergence**
    - covid_series
    - Record ID: `pb14326869`
    - Relevance: 9/10
@@ -212,7 +222,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/corona-virus-when-your-process-lacks-capacityworkers-create-capacity-adaptive-emergence/
    - Media URL: https://mcdn.podbean.com/mf/web/28khtx/CoronaVirus_-_When_Capacity_is_not_in_the_process_.mp3
 
-22. **PAPod 31 - John Sauer - Toilet Talk -Another world talks about Systems Thinking**
+23. **PAPod 31 - John Sauer - Toilet Talk -Another world talks about Systems Thinking**
    - Episode 31
    - Record ID: `pb5739349`
    - Relevance: 8/10
@@ -222,7 +232,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-31-john-sauer-toilet-talk-another-world-talks-about-systems-thinking/
    - Media URL: https://mcdn.podbean.com/mf/web/r3dmsn/PAPod31-JohnieSauer.mp3
 
-23. **PAPod 528 - Embracing Uncertainty: Navigating Change in Today's World**
+24. **PAPod 528 - Embracing Uncertainty: Navigating Change in Today's World**
    - Episode 528
    - Record ID: `pb24737610`
    - Relevance: 8/10
@@ -232,7 +242,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/embracing-uncertainty-navigating-change-in-todays-world/
    - Media URL: https://mcdn.podbean.com/mf/web/4sk292safcu2hg37/PAPod_529_-_2025_Greeting8z6ww-yjhyap-Optimized.mp3
 
-24. **PAPod 571 - Fail Fast, Learn Faster: A Conversation on Human Performance and Recovery**
+25. **PAPod 571 - Fail Fast, Learn Faster: A Conversation on Human Performance and Recovery**
    - Episode 571
    - Record ID: `pb26933422`
    - Relevance: 8/10
@@ -241,13 +251,3 @@
    - Evidence: The record substantially addresses recoverability, failure tolerance, resilient system design, and rapid recovery, with human performance and learning also central.
    - Permalink: https://preaccidentpodcast.podbean.com/e/fail-fast-learn-faster-a-conversation-on-human-performance-and-recovery/
    - Media URL: https://mcdn.podbean.com/mf/web/jijdji4cq2yv8qcp/PAPod_XXX_-_Jowanza_Joseph_Pod9xc9o-3vwq5v-Optimized.mp3
-
-25. **PAPod 593 - Young Voices, System Thinking: A Conversation on Safety with Mousa Yassin**
-   - Episode 593
-   - Record ID: `pb27880445`
-   - Relevance: 8/10
-   - Confidence: high
-   - Subordinate concepts: systems_thinking
-   - Evidence: The episode emphasizes systems thinking, failure-tolerant design, recoverability, chaos testing, and resilient performance, despite overlap with blame and learning teams.
-   - Permalink: https://preaccidentpodcast.podbean.com/e/young-voices-system-thinking-a-conversation-on-safety-with-musa-yassin/
-   - Media URL: https://mcdn.podbean.com/mf/web/7begtrvf2vrr9iqy/PAPod_XXX_-_Mousa_Yassin7b7uv-ewrqcg-Optimized.mp3

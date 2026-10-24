@@ -42,7 +42,17 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-5xx-edgar-schein-part-two/
    - Media URL: https://mcdn.podbean.com/mf/web/jabgjgwp5veg224e/PAPod_239_-_Schein_Part_Two9ci78.mp3
 
-5. **PAPod 539 - From the Archives:  Unlocking Cultural Sustainability with Edgar Schein**
+5. **PAPod 612 - Speak Up or Stay Silent: Amy Edmondson on Psychological Safety**
+   - Episode 612
+   - Record ID: `pb28469881`
+   - Relevance: 9/10
+   - Confidence: high
+   - Subordinate concepts: psychological_safety
+   - Evidence: Psychological safety is the title subject and the description centers 'workplaces where people speak up and learn', 'candid dialogue', and 'collective learning'. The conversation is described as wide-ranging and also covers learning from failure, just culture, and systems thinking, so it is a 9 rather than a 10.
+   - Permalink: https://preaccidentpodcast.podbean.com/e/speak-up-or-stay-silent-amy-edmondson-on-psychological-safety/
+   - Media URL: https://mcdn.podbean.com/mf/web/f29b8xjsgrp93hbn/PAPod_612_-_Amy_Edmondsonanzxn-pe99js-Optimized.mp3
+
+6. **PAPod 539 - From the Archives:  Unlocking Cultural Sustainability with Edgar Schein**
    - Episode 539
    - Record ID: `pb25533992`
    - Relevance: 9/10
@@ -52,7 +62,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/unlocking-cultural-sustainability-with-edgar-schein/
    - Media URL: https://mcdn.podbean.com/mf/web/qjwgrfakfq86em4w/PAPod_239_-_Schein_Part_Two9wnps-bv4vya-Optimized.mp3
 
-6. **Safety Moment - Zero is the outcome - NOT THE PROCESS**
+7. **Safety Moment - Zero is the outcome - NOT THE PROCESS**
    - safety_moment
    - Record ID: `pb5845142`
    - Relevance: 8/10
@@ -62,7 +72,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-zero-is-the-outcome-not-the-process/
    - Media URL: https://mcdn.podbean.com/mf/web/w3zr75/SafetyMoment-ZeroisOnlyanOutcome.mp3
 
-7. **PAPod 566 - Blame Stops Improvement: How Blame Silences Learning**
+8. **PAPod 566 - Blame Stops Improvement: How Blame Silences Learning**
    - Episode 566
    - Record ID: `pb26676649`
    - Relevance: 8/10
@@ -72,7 +82,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/blame-stops-improvement-how-blame-silences-learning/
    - Media URL: https://mcdn.podbean.com/mf/web/cynb49fgn8p39hca/PAPod_566_-_1000_Reports_You_Didn_t_Getawdjt-9h4r36-Optimized.mp3
 
-8. **PAPod 56 - Diabolical Change - Nicole Barrett**
+9. **PAPod 56 - Diabolical Change - Nicole Barrett**
    - Episode 56
    - Record ID: `pb6031565`
    - Relevance: 9/10
@@ -82,7 +92,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-56-diabolical-change-nicole-barrett/
    - Media URL: https://mcdn.podbean.com/mf/web/ivqxdf/PAPod56-NicoleBarrett-DIabolicalChange-ULWHSSponsor.mp3
 
-9. **PAPod 534 - Embracing Māori Culture in Modern Safety Practices - Meet Vance Walker**
+10. **PAPod 534 - Embracing Māori Culture in Modern Safety Practices - Meet Vance Walker**
    - Episode 534
    - Record ID: `pb25067322`
    - Relevance: 9/10
@@ -92,7 +102,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/embracing-maori-culture-in-modern-safety-practices/
    - Media URL: https://mcdn.podbean.com/mf/web/6dv785k5nakw2ezh/PAPod_XXX_-_Vance_Walker_and_Ma_ori_Culture_of_Cautionbmc7m-d7f68h-Optimized.mp3
 
-10. **PAPod 594 - Bridging Cultures: Safety, Migrant Workers, and the Heart of Agribusiness**
+11. **PAPod 594 - Bridging Cultures: Safety, Migrant Workers, and the Heart of Agribusiness**
    - Episode 594
    - Record ID: `pb27880449`
    - Relevance: 9/10
@@ -102,7 +112,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/bridging-cultures-safety-migrant-workers-and-the-heart-of-agribusiness/
    - Media URL: https://mcdn.podbean.com/mf/web/x6s66wcgshdqc56g/PAPod_XXX_-_Al_Thomson8jl51-wp6bpz-Optimized.mp3
 
-11. **Safety Moment - Lather, Rinse, Repeat**
+12. **Safety Moment - Lather, Rinse, Repeat**
    - safety_moment
    - Record ID: `pb6897860`
    - Relevance: 9/10
@@ -112,7 +122,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-lather-rinse-repeat/
    - Media URL: https://mcdn.podbean.com/mf/web/bdd2qt/Safety_Moment_-_Shampoo.mp3
 
-12. **PAPod 494 - Decoding Cultural Diversity at Emirates Airline with Nicholas Dahlstrom**
+13. **PAPod 494 - Decoding Cultural Diversity at Emirates Airline with Nicholas Dahlstrom**
    - Episode 494
    - Record ID: `pb22935430`
    - Relevance: 8/10
@@ -122,7 +132,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/decoding-cultural-diversity-at-emirates-airline-with-nicholas-dahlstrom/
    - Media URL: https://mcdn.podbean.com/mf/web/q9azcw4fuv6ds5id/PAPod_494_-_Nicklas_Dahlstrom_Editbbjeb-AI-Generated.mp3
 
-13. **Safety Moment - Delving Beyond Surface-level Problems**
+14. **Safety Moment - Delving Beyond Surface-level Problems**
    - safety_moment
    - Record ID: `pb22997912`
    - Relevance: 8/10
@@ -132,7 +142,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/delving-beyond-surface-level-problems/
    - Media URL: https://mcdn.podbean.com/mf/web/jabr3fs669vygi97/Safety_Moment_-_Data_is_Everywhere8l5zw-AI-Generated.mp3
 
-14. **PAPod 504 - Transforming Safety Culture in Children's Hospitals: Part 3**
+15. **PAPod 504 - Transforming Safety Culture in Children's Hospitals: Part 3**
    - Episode 504
    - Record ID: `pb23415271`
    - Relevance: 8/10
@@ -142,7 +152,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/transforming-safety-culture-in-childrens-hospitals-part-3/
    - Media URL: https://mcdn.podbean.com/mf/web/5t4u346d9exknsh4/PAPod_504_-_Children_s_Hospital_final_Part6fh37-AI-Generated.mp3
 
-15. **Safety Moment - Instructions for Building Trust**
+16. **Safety Moment - Instructions for Building Trust**
    - safety_moment
    - Record ID: `pb6390057`
    - Relevance: 8/10
@@ -152,7 +162,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-instructions-for-building-trust/
    - Media URL: https://mcdn.podbean.com/mf/web/nu5fwj/Safety_Moment_-_Instructions_for_Building_Trust.mp3
 
-16. **PAPod 590 - Gird Your Loins: NASA, Risk, and the Return of Recrudescence**
+17. **PAPod 590 - Gird Your Loins: NASA, Risk, and the Return of Recrudescence**
    - Episode 590
    - Record ID: `pb27748202`
    - Relevance: 8/10
@@ -162,7 +172,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/gird-your-loins-nasa-risk-and-the-return-of-recrudescence/
    - Media URL: https://mcdn.podbean.com/mf/web/arx72k6c2wqzbhuu/PAPod_XXX_-_David_Woods_Safety_in_Crises99t38-bcjcr5-Optimized.mp3
 
-17. **PAPod 496 - A Deep Dive into a Energy Company's Resilience with Christian Gould**
+18. **PAPod 496 - A Deep Dive into a Energy Company's Resilience with Christian Gould**
    - Episode 496
    - Record ID: `pb22983728`
    - Relevance: 7/10
@@ -172,7 +182,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/a-deep-dive-into-energy-company-equinors-resilience-with-christian-gould/
    - Media URL: https://mcdn.podbean.com/mf/web/qpkm7fuu4rywvtns/PAPod_496_-_Kristian_Gould_on_Culture_and_HOP6x4ze-AI-Generated.mp3
 
-18. **PAPod 602 - From Brazil with Safety: Gilval and the New View Revolution**
+19. **PAPod 602 - From Brazil with Safety: Gilval and the New View Revolution**
    - Episode 602
    - Record ID: `pb28164831`
    - Relevance: 7/10
@@ -182,7 +192,17 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/from-brazil-with-safety-gilval-and-the-new-view-revolution/
    - Media URL: https://mcdn.podbean.com/mf/web/d6q6367grxznbnpu/PAPod_602_-_HOP_in_Brazil8fp6j-f85sbd-Optimized.mp3
 
-19. **PAPod 580 - Start Right, End Safe: Building Better Encounters in 2026**
+20. **PAPod 614 - Accountability Labs: Learning to Have Each Other’s Back**
+   - Episode 614
+   - Record ID: `pb28617477`
+   - Relevance: 7/10
+   - Confidence: high
+   - Subordinate concepts: psychological_safety
+   - Evidence: The description states the labs 'create psychological safety and readiness' so participants 'develop the language and muscle memory to speak up when it matters'. Psychological safety and speaking up are explicit outcomes and mechanisms, alongside the dominant accountability subject.
+   - Permalink: https://preaccidentpodcast.podbean.com/e/accountability-labs-learning-to-have-each-other-s-back/
+   - Media URL: https://mcdn.podbean.com/mf/web/98g3c8qim8eh5enj/PAPod_XXX_-_Jen_Long_Accountability_Labs90syn-4mgz9h-Optimized.mp3
+
+21. **PAPod 580 - Start Right, End Safe: Building Better Encounters in 2026**
    - Episode 580
    - Record ID: `pb27359071`
    - Relevance: 7/10
@@ -192,7 +212,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/start-right-end-safe-building-better-encounters-in-2026/
    - Media URL: https://mcdn.podbean.com/mf/web/tsvbj6krcpxrd6f9/PAPod_XXX_-_La_Megra7t0qz-asevy7-Optimized.mp3
 
-20. **PAPod 502 - Inside the Minds of Healthcare Safety Warriors: A Hospital Roundtable Discussion**
+22. **PAPod 502 - Inside the Minds of Healthcare Safety Warriors: A Hospital Roundtable Discussion**
    - Episode 502
    - Record ID: `pb23308667`
    - Relevance: 7/10
@@ -202,7 +222,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/inside-the-minds-of-healthcare-safety-warriors-a-hospital-roundtable-discussion/
    - Media URL: https://mcdn.podbean.com/mf/web/bcze9tpmtjiqpbw8/PAPod_502_-_A_Children_s_Hospital_Conversation_Part_17ttka-AI-Generated.mp3
 
-21. **Safety Moment - The Power of Context: Free Will vs. Predeterminism in Workplace Safety**
+23. **Safety Moment - The Power of Context: Free Will vs. Predeterminism in Workplace Safety**
    - safety_moment
    - Record ID: `pb23514222`
    - Relevance: 7/10
@@ -212,7 +232,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/the-power-of-context-free-will-vs-predeterminism-in-workplace-safety/
    - Media URL: https://mcdn.podbean.com/mf/web/u3cckw36n9dncnpp/Safety_Moment_-_Organization_Context_Influences_Choice6pgae-AI-Generated.mp3
 
-22. **Safety Moment - Psychological Safety is a Group Dynamic**
+24. **Safety Moment - Psychological Safety is a Group Dynamic**
    - safety_moment
    - Record ID: `pb21010432`
    - Relevance: 8/10
@@ -222,7 +242,7 @@
    - Permalink: https://preaccidentpodcast.podbean.com/e/safety-moment-psychological-safety-is-a-group-dynamic/
    - Media URL: https://mcdn.podbean.com/mf/web/2hxjka/Safety_Moment_-_Psychological_Safety_Is_a_Group_Dynamic8k8rf.mp3
 
-23. **PAPod 327 - Psychological Safety Workshop with Martha Acosta**
+25. **PAPod 327 - Psychological Safety Workshop with Martha Acosta**
    - Episode 327
    - Record ID: `pb16422492`
    - Relevance: 8/10
@@ -231,23 +251,3 @@
    - Evidence: Psychological safety is the explicit subject of the workshop, although the available description does not establish the scope or depth of its treatment.
    - Permalink: https://preaccidentpodcast.podbean.com/e/papod-327-psychological-safety-workshop-with-martha-acosta/
    - Media URL: https://mcdn.podbean.com/mf/web/acam2t/PAPod_327_-_Martha_Feb_202165ktz.mp3
-
-24. **PAPod 473 - The Three Parts of Organizational Culture**
-   - Episode 473
-   - Record ID: `pb22103396`
-   - Relevance: 7/10
-   - Confidence: medium
-   - Subordinate concepts: organizational_culture
-   - Evidence: The title makes the structure of organizational culture the central subject, but the descriptive metadata is entirely boilerplate.
-   - Permalink: https://preaccidentpodcast.podbean.com/e/papod-373-the-three-parts-of-organizational-culture/
-   - Media URL: https://mcdn.podbean.com/mf/web/hn5w7u/PAPod_373_-_The_Three_Parts_of_Organizational_Culture7c89e.mp3
-
-25. **PAPod 88 - Edgar Schein - The Father of Organizational Culture Speaks**
-   - Episode 88
-   - Record ID: `pb6449956`
-   - Relevance: 8/10
-   - Confidence: medium
-   - Subordinate concepts: organizational_culture
-   - Evidence: Organizational and safety culture are explicit subjects and the description confirms a discussion of safety culture, but much of the metadata is guest-focused and promotional.
-   - Permalink: https://preaccidentpodcast.podbean.com/e/papod-88-edgar-schein-the-father-of-organizational-culture-speaks/
-   - Media URL: https://mcdn.podbean.com/mf/web/cfcxsh/PAPod_88_-_Edgar_Schein_ORC.mp3
